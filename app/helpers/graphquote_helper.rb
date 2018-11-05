@@ -1,0 +1,2 @@
+module GraphquoteHelper
+end

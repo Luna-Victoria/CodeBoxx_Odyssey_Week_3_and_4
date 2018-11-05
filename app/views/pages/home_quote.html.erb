@@ -1,0 +1,221 @@
+<section id="quote">
+			<div class="container">
+				<div class="heading-title heading-dotted text-center">
+					<h2>Select the type of evelators you need</h2>
+				</div>
+				
+				<label>&nbsp</label>
+				<div class="text-center">
+					<ul class="nav nav-pills mix-filter mb-60">
+						<li><button data-filter="residential" class="btn btn-primary filter mb-10 mt-10" onclick="residential()">Residential</button></li>
+						<li><button data-filter="commercial" class="btn btn-primary mb-10 mt-10" onclick="commercial()">Commercial</button></li>
+						<li><button data-filter="corporate" class="btn btn-primary mb-10 mt-10" onclick="corporate()">Corporate</button></li>
+						<li><button data-filter="hybrid" class="btn btn-primary mb-10 mt-10" onclick="hybrid()">Hybrid</button></li>
+					</ul>
+				</div>
+			</div>
+
+			<!-- Residential quote -->
+			<form id="resquote" class="text-center mix residential" style="display:none" form action='/new_resquote' name='resquote' method="post">
+				<div class="row">
+					<div class="col-md-6 mb-60">
+						<label for="CompanyName">Company Name</label>
+						<input id="companyname" style="text-align:center;" type="text" name="companyname">
+					</div>
+					<div class="col-md-6 mb-60">
+						<label for="ContactEmail">Contact Email</label>
+						<input id="contactemail" style="text-align:center;" type="email" name="contactemail">
+					</div><br/>
+					<div class="col-md-4">
+						<p class="question-1"> How many appartments ? <input id="resquestion1" name="apps" class="" onkeyup="resautoquoteupdate()" onchange="resautoquoteupdate()" value="" type="number" min="0" max="999"></p>
+					</div>
+
+					<div class="col-md-4">
+						<p class="question-2"> How many floors ? <input id="resquestion2" name="floors" class="" onkeyup="resautoquoteupdate()" onchange="resautoquoteupdate()" value=""  type="number" min="0" max="999"></p>
+					</div>
+
+					<div class="col-md-4">
+						<p class="question-3"> How many basements ? <input id="resquestion3" name="basements" class="" onkeyup="resautoquoteupdate()" onchange="resautoquoteupdate()" value=""  type="number" min="0" max="999"></p>
+					</div><br/>
+					</div>
+
+					<div class="col-md-12">
+						<p class="text-center">You will need <input id="resultres" style="text-align:center;" type="text" value=""  min="0" max="999" name="resultres" readonly> elevator cages.</p>
+					</div>
+					<div class="quality text-center" id="resquality">
+						<p>Select between our 3 tiers</p>
+						<div>
+							<label for="standardqly">Standard     <input type="radio" id="resstandardqly" name="resquality" value="Standard" onchange="resautoquoteupdate()" checked></label>
+						</div>
+						<div>
+							<label for="premiumqly">Premium     <input type="radio" id="respremiumqly" name="resquality" value="Premium" onchange="resautoquoteupdate()"></label>
+						</div>
+						<div>
+							<label for="exceliumqly">Excelium     <input type="radio" id="resexceliumqly" name="resquality" value="Excelium" onchange="resautoquoteupdate()"></label>
+						</div>
+						<label>&nbsp</label>
+						<div class="restotalprice">
+							<p class="text-center"> Total <input id="restotalprice" style="text-align:center;" type="text" name="restotalprice" value="" min="0" max="999" readonly>$</p>
+						</div>
+                        <div>
+						<button class="btn btn-primary" type="submit" id="Submit" status="submit" >SEND APPLICATION</button>
+                        </div>
+					</div>
+			</form>
+
+			<!-- Commercial quote -->
+			<form id="comquote" class="text-center" style="display:none" form action='/new_comquote' name='comquote' method="post">
+				<div class="row">
+					<div class="col-md-6 mb-60">
+						<label for="CompanyName">Company Name</label>
+						<input id="companyname" style="text-align:center;" type="text" name="companyname">
+					</div>
+					<div class="col-md-6 mb-60">
+						<label for="ContactEmail">Contact Email</label>
+						<input id="contactemail" style="text-align:center;" type="email" name="contactemail">
+					</div><br/>
+					<div class="col-md-4">
+						<p class="question-1"> How many businesses ? <input id="comquestion1" name="shops" class="" onkeyup="comautoquoteupdate()" onchange="comautoquoteupdate()" value="" type="number" min="0" max="999"></p>
+					</div>
+					<div class="col-md-4">
+						<p class="question-2"> How many floors ? <input id="comquestion2" name="floors" class="" onkeyup="comautoquoteupdate()" onchange="comautoquoteupdate()" value=""  type="number" min="0" max="999"></p>
+					</div>
+					<div class="col-md-4">
+						<p class="question-3"> How many basements ? <input id="comquestion3" name="basements" class="" onkeyup="comautoquoteupdate()" onchange="comautoquoteupdate()" value=""  type="number" min="0" max="999"></p>
+					</div>
+					<div class="col-md-6">
+						<p class="question-4"> How many parking spots ? <input id="comquestion4" name="parkings" class="" onkeyup="comautoquoteupdate()" onchange="comautoquoteupdate()" value=""  type="number" min="0" max="999"></p>
+					</div>
+					<div class="col-md-6">
+						<p class="question-5"> How many elevator cages ? <input id="comquestion5" name="elevators" class="" onkeyup="comautoquoteupdate()" onchange="comautoquoteupdate()" value=""  type="number" min="0" max="999"></p>
+					</div><br/>
+					</div>
+					<div class="col-md-12">
+						<p class="text-center">You will need <input id="resultcom" style="text-align:center;" type="text" name="resultcom" readonly> elevators</p>
+					</div>
+					<div class="quality text-center" id="comquality">
+						<p>Select between our 3 tiers</p>
+						<div>
+							<label for="standardqly">Standard     <input type="radio" id="comstandardqly" name="comquality" value="Standard" onchange="comautoquoteupdate()" checked></label>
+						</div>
+						<div>
+							<label for="standardqly">Premium     <input type="radio" id="compremiumqly" name="comquality" value="Premium" onchange="comautoquoteupdate()"></label>
+						</div>
+						<div>
+							<label for="exceliumqly">Excelium     <input type="radio" id="comexceliumqly" name="comquality" value="Excelium" onchange="comautoquoteupdate()"></label>
+						</div>
+						<label>&nbsp</label>
+						<div class="comtotalprice">
+							<p class="text-center"> Total <input id="comtotalprice" style="text-align:center;" type="text" name="comtotalprice" readonly>$</p>
+						</div>
+                        <div>
+                        <button class="btn btn-primary" type="submit" id="Submit" status="submit">SEND APPLICATION</button>
+                        </div>
+					</div>
+			</form>
+
+			<!-- Corporate quote -->
+			<form id="corpquote" class="text-center" style="display:none" form action='/new_corpquote' name='corpquote' method="post">
+				<div class="row">
+					<div class="col-md-6 mb-60">
+						<label for="CompanyName">Company Name</label>
+						<input id="companyname" style="text-align:center;" type="text" name="companyname">
+					</div>
+					<div class="col-md-6 mb-60">
+						<label for="ContactEmail">Contact Email</label>
+						<input id="contactemail" style="text-align:center;" type="email" name="contactemail">
+					</div><br/>
+					<div class="col-md-4">
+						<p class="question-1"> How many distinct businesses? <input id="corpquestion1" name="shops" class="" onkeyup="corpautoquoteupdate()" onchange="corpautoquoteupdate()" value=""  type="number" min="0" max="999"></p>
+					</div>
+					<div class="col-md-4">
+						<p class="question-2"> How many stories ? <input id="corpquestion2" name="floors" class="" onkeyup="corpautoquoteupdate()" onchange="corpautoquoteupdate()" value=""  type="number" min="0" max="999"></p>
+					</div>
+					<div class="col-md-4">
+						<p class="question-3"> How many basements ? <input id="corpquestion3" name="basements" class="" onkeyup="corpautoquoteupdate()" onchange="corpautoquoteupdate()" value=""  type="number" min="0" max="999"></p>
+					</div>
+					<div class="col-md-6">
+						<p class="question-4"> How many parking spots ? <input id="corpquestion4" name="parkings" class="" onkeyup="corpautoquoteupdate()" onchange="corpautoquoteupdate()" value=""  type="number" min="0" max="999"></p>
+					</div>
+					<div class="col-md-6">
+						<p class="question-5"> How many occupants per floor ? <input id="corpquestion5" name="occupants" class="" onkeyup="corpautoquoteupdate()" onchange="corpautoquoteupdate()" value=""  type="number" min="0" max="999"></p>
+					</div><br/>
+					</div>
+					<div class="col-md-12">
+						<p class="text-center">You will need <input id="resultcorp" style="text-align:center;" type="text" name="resultcorp" readonly> elevators</p>
+					</div>
+					<div class="quality text-center" id="corpquality">
+						<p>Select between our 3 tiers</p>
+						<div>
+							<label for="standardqly">Standard     <input type="radio" id="corpstandardqly" name="corpquality" value="Standard" onchange="corpautoquoteupdate()" checked></label>
+						</div>
+						<div>
+							<label for="standardqly">Premium     <input type="radio" id="corppremiumqly" name="corpquality" value="Premium" onchange="corpautoquoteupdate()"></label>
+						</div>
+						<div>
+							<label for="exceliumqly">Excelium     <input type="radio" id="corpexceliumqly" name="corpquality" value="Excelium" onchange="corpautoquoteupdate()"></label>
+						</div>
+						<label>&nbsp</label>
+						<div class="corptotalprice">
+							<p class="text-center"> Total <input id="corptotalprice" style="text-align:center;" type="text" name="corptotalprice" readonly>$</p>
+						</div>
+                        <div>
+                        <button class="btn btn-primary" type="submit" id="Submit" status="submit">SEND APPLICATION</button>
+                        </div>
+					</div>
+			</form>
+
+			<!-- Hybrid quote -->
+			<form id="hybquote" class="text-center" style="display:none" form action='/new_hybquote' name='hybquote' method="post">
+				<div class="row">
+					<div class="col-md-6 mb-60">
+						<label for="CompanyName">Company Name</label>
+						<input id="companyname" style="text-align:center;" type="text" name="companyname">
+					</div>
+					<div class="col-md-6 mb-60">
+						<label for="ContactEmail">Contact Email</label>
+						<input id="contactemail" style="text-align:center;" type="email" name="contactemail">
+					</div><br/>
+					<div class="col-md-4">
+						<p class="question-1"> How many businesses ? <input id="hybquestion1" name="shops" class="" onkeyup="hybautoquoteupdate()" onchange="hybautoquoteupdate()" value=""  type="number" min="0" max="999"></p>
+					</div>
+					<div class="col-md-4">
+						<p class="question-2"> How many floors ? <input id="hybquestion2" name="floors" class="" onkeyup="hybautoquoteupdate()" onchange="hybautoquoteupdate()" value=""  type="number" min="0" max="999"></p>
+					</div>
+					<div class="col-md-4">
+						<p class="question-3"> How many basements ? <input id="hybquestion3" name="basements" class="" onkeyup="hybautoquoteupdate()" onchange="hybautoquoteupdate()" value=""  type="number" min="0" max="999"></p>
+					</div>
+					<div class="col-md-4">
+						<p class="question-4"> How many parking spots ? <input id="hybquestion4" name="parkings" class="" onkeyup="hybautoquoteupdate()" onchange="hybautoquoteupdate()" value=""  type="number" min="0" max="999"></p>
+					</div>
+					<div class="col-md-4">
+						<p class="question-5"> How many occupants per floor ? <input id="hybquestion5" name="occupants" class="" onkeyup="hybautoquoteupdate()" onchange="hybautoquoteupdate()" value=""  type="number" min="0" max="999"></p>
+					</div>
+					<div class="col-md-4">
+						<p class="question-6"> Maximum number of operating hours ? <input id="hybquestion6" name="activehours" onfocus="this.value=''" class=""  onkeyup="hybautoquoteupdate()" value=""  type="number" min="0" max="24"></p>
+					</div><br/>
+					</div>
+					<div class="col-md-12">
+						<p class="text-center">You will need <input id="resulthyb" type="text" style="text-align:center;" name="resulthyb" readonly> elevators</p>
+					</div>
+					<div class="quality text-center" id="hybquality">
+						<p>Select between our 3 tiers</p>
+						<div>
+							<label for="standardqly">Standard     <input type="radio" id="hybstandardqly" name="hybquality" value="Standard" onchange="hybautoquoteupdate()" checked></label>
+						</div>
+						<div>
+							<label for="standardqly">Premium     <input type="radio" id="hybpremiumqly" name="hybquality" value="Premium" onchange="hybautoquoteupdate()"></label>
+						</div>
+						<div>
+							<label for="exceliumqly">Excelium     <input type="radio" id="hybexceliumqly" name="hybquality" value="Excelium" onchange="hybautoquoteupdate()"></label>
+						</div>
+						<label>&nbsp</label>
+						<div class="hybtotalprice">
+							<p class="text-center"> Total <input id="hybtotalprice" style="text-align:center;" type="text" name="hybtotalprice" readonly>$</p>
+						</div>
+                        <div>
+                        <button class="btn btn-primary" type="submit" id="Submit" status="submit">SEND APPLICATION</button>
+                        </div>
+					</div>
+			</form>
+		</section>

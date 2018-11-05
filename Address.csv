@@ -1,0 +1,150 @@
+Address_type,Status,Entity,Number_street,Suite_or_apartment,City,Zip_or_postal_code,Country,Notes
+Billing,Active,Customer,544,81,Gegu,E0F0N2,USA,Le client est sourd ou malentendant
+Shipping,Inactive,Building,510,59,Tonglin,A0S4S9,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,239,59,Hedian,T2F9R5,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,16,41,Bakovci,T1E6M6,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,7388,38,Al Manqil,I8O8O9,USA,Le client est sourd ou malentendant
+Shipping,Inactive,Building,30381,98,Pasanggrahan,K5S3O2,USA,Le client est sourd ou malentendant
+Shipping,Inactive,Building,89,86,Hedong,K3Z1M5,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,36,42,Kitimat,P5Z4I9,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,0,19,Pelabuhanratu,Y0N0Y6,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,91,9,Armopa,V3B8Q4,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,15393,56,Kokoshkino,X5R5B0,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,46744,99,Ludwin,H2X6H4,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,41,12,Charras,H8J0M9,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,929,49,Mjlby,D6T3H5,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,1,14,Polje,B7R2A4,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,1,51,Zhongshan,Z0B4K2,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,12,36,Helsingborg,K3Y3D5,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,79,66,Qixian,K9C1E3,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,122,3,Hammar,R3I7T5,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,2647,38,Jianshan,N6X5N2,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,54,33,Murom,P1V5X6,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,87,94,Xiagang,P8J9T7,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,738,35,Longhe,C9F1T5,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,8837,40,Suidong,X9A7C6,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,4,88,Piln­kov,D5J1Q7,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,51,56,Rosais,V7F3C2,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,74,11,Grazhdanka,I4K6R2,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,3673,9,Ikang,Z9I5I8,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,0,92,Machang,M3S4R6,USA,Le client est sourd ou malentendant
+Shipping,Inactive,Building,2,91,Mozdok,Q5X8R2,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,1554,86,Promna,B5W2F4,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,87965,84,Maxiao,Y8Z6K3,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,76,14,Minusinsk,J1K7H5,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,6654,61,Datuan,J7S3O8,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,89806,28,Sanquan,L0J8G0,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,63,33,Ocampo,M3Q0L1,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,1837,67,Essang,B3I1I9,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,5417,93,Sampungu,E7O5M0,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,540,56,Skopin,R3N4C4,Canada,Le client est sourd ou malentendant
+Billing,Inactive,Customer,322,38,Nagrak,Z4W8J2,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,59,91,Olivia,G0U4U4,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,901,93,Granja do Tedo,W0T5L2,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,22,35,Gwanda,E5C5Q4,USA,Le client est sourd ou malentendant
+Billing,Inactive,Customer,5811,21,Delodpeken,O5I7Z4,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,0,20,Lewodoli,F0K8Q4,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,1,58,Amangarh,F4Z5L9,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,87,67,Celestynw,G8B0A0,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,730,14,Cibitung,R4K2O8,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,692,47,Liure,Z8V1R7,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,896,26,Shizukuishi,E8E1E7,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,6,76,Puka,Q5J7C6,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,9,89,Ciudad Ojeda,W9V1Y0,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,771,32,Faaone,E5D8G9,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,961,78,Lampa,Z4F1V7,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,93,74,Huacachi,V7B7Q0,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,8,38,Shuanghekou,N3C2W8,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,609,82,Natitingou,J7O4U6,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,2307,8,Ginette,G3R6Y9,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,52,96,Shitun,R3X4F4,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,15,7,Nankang,T4Y9Y3,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,3,34,Ussuriysk,C6S9T1,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,825,69,Soure,F7N4R6,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,1427,25,Junxi,T1Q3A8,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,864,47,Dame-Marie,Y7Y6V3,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,192,75,Nanyo,S2T8A9,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,99158,35,Quito,B2I6U1,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,58,27,Nyanga,E1S9A4,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,6388,41,Casteles,U4O4K2,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,71,31,Vishnyakovskiye Dachi,W6R6I7,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,3,98,Baroy,T3T9S5,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,3,46,Pierreville,F4C9N6,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,26,26,Haebaru,H1T4K4,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,599,57,Krebet,C6H2X4,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,5,82,Ezeiza,O1T5X3,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,42726,53,Panganiban,X1O9D0,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,716,92,Alain,Q9K4K3,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,9112,59,Dongming,H6Y2M1,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,66578,23,Toba,A0K0L1,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,4,19,Novovolynsk,H7Q2O8,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,4,28,Podhum,L6I3K3,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,781,14,Nancun,K1H0Z8,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,39,65,Saint-Quentin-en-Yvelines,Z5O6D6,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,5,5,Veliki Grevac,F4J4I1,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,51491,70,Kotabaru,L8D2L6,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,70,48,Agaki,S2W0K3,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,2374,55,Ngepoh Kidul,K4A5C5,Canada,Le client est sourd ou malentendant
+Shipping,Inactive,Building,5065,7,Krajanpagowan,T9C0K1,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,7491,44,Stockholm,V5Z5D6,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,995,14,Messina,E9Z0S7,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,990,6,Charleston,C4B2S1,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,9601,37,Boyle,D7E8T2,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,6980,18,Xixiang,D2X7O2,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,46,80,Sinarjaya,U5H0P8,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,31509,49,Tongouson,G9R3T4,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,4612,75,Siuna,W9S7V5,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,17,63,Banjar Pangkungtibah Selatan,O9Q4A0,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,13,72,Ferraz de Vasconcelos,B4O3Z1,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,3069,8,Parungjawa,U3L8P2,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,6189,89,Kalmar,P6H4O0,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,5,31,Chenguang,X9X5Y3,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,25,0,Herrera,F6I6K1,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,8210,22,Lallayug,B6P2J9,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,3601,99,Sampangbitung,D6P0R8,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,763,89,Nandaime,F2K7Q4,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,6326,57,Kardashian,X3F2F4,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,2,90,Taihe,I5V4G4,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,2638,70,Khujirt,X0Q8X4,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,30,81,Daugai,Q6N5Y4,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,7,6,Badrah,P4G9T5,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,2,30,Swindon,H8X1J1,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,6972,71,Yangzhuang,F1H1S1,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,80,89,Moi lsac,X5I1R6,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,50,16,Gutang,A3G5I0,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,69057,85,Americana,R5L1K1,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,8534,55,Drahovo,M5Q0Z1,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,590,86,San Antonio,D3D5M9,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,113,4,Marantao,A3O8W1,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,22,26,Guadalupe,O4M4X1,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,373,80,San Ramon,A4D1V3,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,2,69,Klang,F9U0P7,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,145,76,Wuyang,O6L1O8,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,2,47,Liuji,P7I6V2,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,183,7,Rodotpi,O7N3F0,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,3,24,Dakoutun,M8C9F3,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,9,4,Manchen,A3I6M9,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,2,49,Welchman Hall,E1G4X5,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,6,91,Beopwon,O8Z2H9,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,68156,81,Xingnong,V1X3O2,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,125,43,Huatajata,E1D3X7,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,0,66,Itpolis,E7P6I8,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,33690,9,Skotossa,I3L0L6,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,28673,77,Kohtla-Jarive,P7I9F5,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,1517,95,Luzhou,W3R3O6,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,17,34,Krajan Alastengah,F4D7J0,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,63884,98,Arapuey,Z2X5Q6,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,1,78,Pilno­kov,Z4N6P5,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,4905,16,Hekou,Y4Z7M9,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,2067,27,Sajia,G6Y5G9,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,2620,59,Hulyaypole,R6G2I0,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,59832,35,Corinto,R8I8A0,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,508,62,Sakrand,V9I1F1,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,896,54,Wonocolo,A9G7N8,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,6279,83,Buynaksk,F9V3U4,USA,Le client est sourd ou malentendant
+Billing,Inactive,Customer,38164,38,Gerakaro,K9O9N4,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,4,99,Villa Ocampo,U1U7M5,USA,Le client est sourd ou malentendant
+Shipping,Active,Building,8971,67,Tyres,R7A7Y2,Canada,Le client est sourd ou malentendant
+Billing,Active,Customer,44833,84,Zhongshangang,B4V9E2,USA,Le client est sourd ou malentendant
+Billing,Active,Customer,2427,4,Eda,C4V4G4,Canada,Le client est sourd ou malentendant
+Shipping,Active,Building,9,76,Kombasi,N5Z0R6,Canada,Le client est sourd ou malentendant

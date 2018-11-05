@@ -1,0 +1,5 @@
+class Lead < ApplicationRecord
+
+    
+
+end

@@ -1,0 +1,241 @@
+Type,Status,Activation_date,Last_inspection_date,Operation_certificate,Information,Notes
+res,Active,01/07/2018,03/06/2017,true,sit,leo odio condimentum
+corp,Active,29/05/2018,08/04/2016,true,sit amet consectetuer adipiscing elit,diam nam
+res,Active,17/05/2018,21/04/2016,false,est risus,id pretium iaculis diam
+corp,Inactive,19/07/2018,02/11/2015,true,adipiscing elit,id nisl venenatis lacinia
+com,Active,10/09/2018,08/10/2018,true,porta volutpat quam pede,nulla justo aliquam
+com,Active,27/10/2017,22/07/2016,true,et magnis dis parturient,nisi at nibh in hac
+corp,Inactive,31/12/2017,22/03/2016,true,vestibulum ante ipsum primis,eu magna
+hyb,Active,24/07/2018,10/11/2015,false,in faucibus orci,vestibulum ante ipsum primis in
+res,Active,23/03/2018,27/08/2018,true,enim lorem ipsum,tortor risus
+com,Active,22/02/2018,28/11/2015,true,rutrum at lorem integer tincidunt,donec dapibus duis
+res,Inactive,12/05/2018,14/09/2017,false,consectetuer adipiscing,dapibus nulla suscipit ligula
+res,Inactive,11/12/2017,31/10/2016,true,odio odio elementum eu interdum,curae mauris
+corp,Inactive,02/03/2018,13/11/2016,false,consequat,in est risus
+hyb,Inactive,10/02/2018,28/10/2015,false,libero nam,cursus
+res,Active,13/11/2017,26/04/2017,true,vestibulum ante ipsum primis in,blandit mi
+com,Active,20/08/2018,27/04/2018,false,morbi vestibulum velit,blandit non interdum in ante
+hyb,Inactive,15/11/2017,14/06/2017,false,non velit,felis
+corp,Active,12/04/2018,13/06/2017,false,cras mi pede malesuada in,nisi at nibh in
+res,Inactive,25/09/2018,10/10/2017,false,id ligula,maecenas pulvinar lobortis
+hyb,Active,29/06/2018,23/04/2016,true,lectus suspendisse potenti,sit amet eleifend pede
+corp,Inactive,19/06/2018,23/03/2016,true,lorem ipsum,ridiculus mus
+com,Active,06/08/2018,23/11/2016,true,erat id,in consequat
+corp,Active,31/10/2017,23/11/2016,false,etiam pretium iaculis,lectus pellentesque eget nunc donec
+corp,Active,01/04/2018,18/07/2016,false,ut,turpis eget elit sodales scelerisque
+res,Active,08/07/2018,02/08/2018,false,ante vestibulum,vestibulum proin eu
+corp,Active,06/02/2018,13/11/2017,false,morbi non quam nec,imperdiet nullam orci pede
+res,Inactive,02/06/2018,28/01/2017,true,commodo,pulvinar
+com,Active,16/09/2018,21/08/2017,true,pellentesque,et
+corp,Inactive,27/08/2018,19/08/2018,true,phasellus sit amet,vestibulum
+com,Active,08/04/2018,17/06/2016,true,gravida,arcu
+hyb,Inactive,05/03/2018,24/02/2016,true,donec diam neque,leo rhoncus
+hyb,Inactive,04/02/2018,08/04/2017,true,amet lobortis,libero
+corp,Active,22/03/2018,20/08/2016,true,enim in tempor turpis nec,ante
+corp,Inactive,09/04/2018,05/04/2018,true,augue aliquam,nec
+hyb,Inactive,25/04/2018,31/08/2017,true,lectus vestibulum quam,vestibulum quam sapien
+corp,Active,11/10/2017,30/03/2017,true,morbi,a pede posuere nonummy integer
+hyb,Inactive,02/07/2018,04/09/2016,true,vel augue vestibulum rutrum rutrum,in faucibus
+hyb,Active,08/07/2018,09/05/2017,true,eget,pellentesque
+corp,Active,15/11/2017,04/02/2016,true,ante nulla justo aliquam,non mi integer ac neque
+res,Active,30/06/2018,24/05/2018,false,scelerisque quam turpis adipiscing,luctus
+com,Inactive,26/06/2018,05/07/2018,true,ut tellus,ornare consequat lectus in
+res,Active,20/06/2018,29/08/2016,true,nisi vulputate nonummy maecenas tincidunt,ac leo pellentesque
+hyb,Active,13/08/2018,19/09/2016,true,blandit nam nulla integer pede,vitae consectetuer eget rutrum
+com,Active,17/11/2017,29/09/2018,true,morbi vestibulum velit,tristique est et tempus
+res,Active,19/01/2018,17/06/2017,true,tincidunt eget tempus vel,congue eget
+hyb,Inactive,12/09/2018,06/12/2016,true,ante vestibulum ante,eros elementum pellentesque quisque
+com,Active,08/04/2018,14/03/2017,false,sapien,vestibulum ante ipsum
+com,Active,25/08/2018,01/03/2016,true,bibendum morbi,ligula vehicula consequat
+hyb,Inactive,08/05/2018,07/06/2016,true,molestie lorem,at velit eu est congue
+com,Active,26/11/2017,01/12/2015,true,metus,sit amet
+res,Inactive,06/05/2018,25/01/2018,true,nibh in quis justo maecenas,dictumst morbi vestibulum
+hyb,Inactive,26/08/2018,12/06/2018,true,pede lobortis ligula,vel augue vestibulum ante
+com,Inactive,31/03/2018,09/08/2016,true,nam ultrices libero non,erat tortor
+hyb,Inactive,16/09/2018,19/10/2016,true,hac habitasse platea dictumst,varius nulla facilisi
+corp,Active,06/02/2018,25/02/2018,true,libero,sit amet
+res,Active,20/01/2018,24/06/2017,true,elementum ligula vehicula,proin leo odio porttitor
+hyb,Inactive,13/04/2018,30/01/2018,true,arcu,viverra pede
+corp,Active,17/12/2017,30/07/2017,false,id ornare imperdiet,suspendisse accumsan tortor quis turpis
+hyb,Inactive,10/10/2017,12/06/2016,true,volutpat in,nunc rhoncus
+hyb,Active,29/08/2018,11/05/2016,true,leo pellentesque,duis bibendum felis sed interdum
+hyb,Inactive,01/01/2018,02/08/2018,false,duis,id nulla ultrices aliquet maecenas
+hyb,Inactive,28/03/2018,14/05/2017,false,non lectus aliquam sit amet,amet eros
+corp,Active,24/10/2017,05/08/2017,true,molestie lorem quisque ut,vehicula consequat
+hyb,Inactive,29/03/2018,23/05/2016,false,in faucibus orci,lacinia aenean sit amet
+hyb,Active,21/05/2018,22/08/2016,true,duis consequat dui nec nisi,ultrices posuere cubilia curae mauris
+hyb,Inactive,13/11/2017,05/08/2018,false,vehicula consequat morbi,faucibus accumsan
+com,Inactive,13/03/2018,11/12/2016,false,tincidunt eu,vestibulum ante ipsum
+corp,Inactive,18/04/2018,27/09/2017,false,mus vivamus vestibulum sagittis,ut
+hyb,Active,01/09/2018,23/11/2016,true,eleifend donec ut dolor morbi,pretium nisl
+res,Inactive,29/03/2018,26/06/2016,true,neque duis bibendum morbi non,lacus at turpis donec posuere
+com,Active,14/04/2018,01/06/2017,true,lacinia erat,nulla
+com,Inactive,28/08/2018,17/01/2017,true,nisi vulputate,lacus
+hyb,Active,26/05/2018,19/06/2017,true,libero quis orci nullam,integer aliquet massa id lobortis
+res,Active,12/07/2018,07/12/2017,true,quisque arcu libero,tortor id nulla
+com,Active,05/02/2018,25/10/2017,false,accumsan tellus,ligula sit amet
+hyb,Inactive,24/08/2018,16/09/2018,false,consequat,phasellus id sapien in
+hyb,Inactive,16/08/2018,03/07/2017,true,quisque,orci luctus et ultrices
+res,Inactive,10/01/2018,19/08/2017,true,sapien non,aliquet massa id lobortis convallis
+com,Inactive,14/03/2018,13/12/2017,false,sit amet eleifend pede,nisi volutpat eleifend donec
+com,Inactive,03/11/2017,04/04/2016,false,sit,purus aliquet
+com,Active,25/01/2018,20/12/2017,true,non mattis,massa id lobortis
+corp,Inactive,31/10/2017,22/03/2016,false,dis parturient,et tempus
+hyb,Inactive,17/07/2018,18/05/2017,true,imperdiet sapien urna pretium nisl,et commodo vulputate
+corp,Active,18/06/2018,17/08/2017,false,ipsum primis in faucibus orci,tempor convallis
+hyb,Active,11/03/2018,15/07/2016,true,convallis eget eleifend luctus ultricies,varius integer
+hyb,Inactive,14/07/2018,21/03/2016,false,pretium iaculis diam erat,nunc donec quis
+com,Active,07/11/2017,28/07/2016,true,vulputate nonummy maecenas tincidunt lacus,id sapien
+com,Inactive,22/02/2018,17/07/2018,true,ut massa,diam erat fermentum
+hyb,Inactive,17/03/2018,03/06/2018,false,aliquet massa,condimentum id luctus nec molestie
+hyb,Active,01/07/2018,24/03/2018,false,erat eros viverra,augue aliquam erat
+corp,Active,01/04/2018,16/09/2016,false,pulvinar sed nisl nunc rhoncus,bibendum morbi non
+com,Active,22/12/2017,08/09/2016,false,orci,bibendum morbi
+corp,Active,10/08/2018,03/02/2017,true,in libero ut,eget rutrum at
+hyb,Inactive,14/11/2017,09/05/2017,false,sit amet cursus,orci luctus et ultrices
+com,Active,14/12/2017,31/12/2017,true,in eleifend,dapibus
+com,Active,13/09/2018,07/03/2018,false,scelerisque,consectetuer adipiscing
+com,Active,13/08/2018,06/01/2018,true,arcu libero rutrum ac,sapien
+hyb,Active,17/07/2018,15/10/2017,true,at lorem,aliquet ultrices erat
+res,Inactive,30/06/2018,26/06/2017,true,luctus et ultrices,penatibus et magnis
+hyb,Inactive,17/03/2018,29/02/2016,false,aliquam augue quam sollicitudin vitae,at nulla
+res,Active,02/11/2017,23/05/2017,false,et ultrices posuere cubilia curae,lorem
+res,Active,29/03/2018,11/04/2016,true,amet sapien dignissim,luctus
+com,Inactive,10/08/2018,04/03/2017,true,nibh fusce lacus purus,ante vel ipsum praesent
+com,Inactive,01/01/2018,28/09/2018,false,sed nisl nunc rhoncus,lectus pellentesque at nulla suspendisse
+corp,Active,17/04/2018,01/09/2018,true,eu massa donec dapibus duis,risus dapibus augue
+hyb,Active,20/03/2018,10/11/2016,false,nibh fusce lacus,sodales scelerisque mauris
+corp,Active,08/07/2018,23/02/2016,true,semper interdum mauris ullamcorper,eget
+com,Inactive,17/10/2017,28/05/2018,false,id lobortis convallis tortor risus,augue
+corp,Active,14/04/2018,24/09/2017,false,turpis sed ante,tellus nisi eu orci mauris
+com,Active,03/09/2018,08/06/2017,true,est risus auctor sed,sit amet sapien dignissim
+corp,Inactive,31/10/2017,05/08/2018,true,vestibulum velit,morbi
+com,Inactive,02/02/2018,10/11/2017,false,varius nulla facilisi cras non,purus aliquet at feugiat
+corp,Active,21/05/2018,20/12/2016,false,penatibus et magnis,eget semper rutrum
+corp,Inactive,04/01/2018,13/11/2015,false,eu mi nulla ac,non
+res,Inactive,31/07/2018,29/05/2018,true,morbi vestibulum velit id,ut tellus nulla ut
+com,Active,25/07/2018,10/07/2018,true,ante,non
+res,Active,08/10/2018,16/01/2017,false,dis parturient montes nascetur,orci luctus et ultrices posuere
+hyb,Active,04/07/2018,08/11/2017,false,pulvinar nulla pede ullamcorper augue,accumsan tellus nisi eu orci
+res,Active,08/01/2018,26/04/2018,false,potenti,lectus aliquam
+res,Active,21/12/2017,29/12/2016,false,in hac,non
+corp,Inactive,01/05/2018,17/07/2016,false,nulla integer pede justo,libero rutrum ac lobortis
+res,Inactive,10/09/2018,16/04/2017,false,lorem vitae mattis nibh,aenean sit amet
+com,Inactive,04/04/2018,08/11/2017,false,pede,nascetur ridiculus
+hyb,Inactive,04/12/2017,17/06/2018,true,nibh in quis justo,platea
+hyb,Active,13/12/2017,04/10/2018,true,ut erat,nam
+hyb,Inactive,29/09/2018,19/08/2018,false,dictumst morbi vestibulum velit,feugiat et
+hyb,Active,03/02/2018,08/03/2018,false,orci luctus et,quis
+com,Inactive,31/08/2018,18/06/2017,true,nulla dapibus,sed accumsan felis ut at
+corp,Active,27/08/2018,01/10/2016,true,semper sapien a libero nam,magna at nunc commodo
+hyb,Active,29/01/2018,28/09/2017,false,eu,sed justo pellentesque
+hyb,Active,21/02/2018,18/02/2017,false,vestibulum ante ipsum primis,a
+com,Active,25/11/2017,28/10/2016,false,montes nascetur ridiculus mus,tincidunt eget tempus
+corp,Inactive,19/06/2018,07/11/2016,true,at turpis,nullam porttitor lacus
+res,Active,23/07/2018,07/02/2018,true,convallis nunc proin at,sit amet diam in
+hyb,Inactive,09/06/2018,30/08/2016,true,quis orci nullam,porta volutpat erat
+corp,Active,03/12/2017,22/12/2016,false,justo sollicitudin ut,cubilia curae duis faucibus accumsan
+com,Inactive,29/06/2018,30/04/2018,true,suspendisse accumsan tortor,sem duis aliquam convallis
+com,Inactive,27/01/2018,20/06/2018,true,feugiat et eros vestibulum,vivamus vel nulla eget
+hyb,Active,28/11/2017,06/02/2017,false,tortor,bibendum morbi
+hyb,Inactive,12/09/2018,11/12/2015,true,sed ante,vitae quam suspendisse
+corp,Active,01/01/2018,26/07/2016,true,urna pretium nisl,pulvinar lobortis est phasellus
+hyb,Active,30/03/2018,14/08/2017,true,luctus,aliquam
+res,Inactive,26/09/2018,21/10/2016,false,ac neque duis bibendum,est lacinia nisi venenatis
+res,Active,28/04/2018,30/09/2016,false,tellus nulla ut erat id,dapibus
+hyb,Active,03/08/2018,08/10/2016,true,id mauris vulputate,sagittis sapien
+hyb,Inactive,17/08/2018,07/06/2018,false,fermentum justo nec,sit
+corp,Inactive,11/02/2018,16/11/2017,true,ultrices,laoreet ut rhoncus aliquet pulvinar
+res,Inactive,09/07/2018,22/03/2018,false,aenean auctor,turpis
+hyb,Active,02/02/2018,16/01/2016,false,consequat ut nulla sed accumsan,ridiculus mus
+com,Inactive,01/05/2018,19/02/2016,true,vestibulum,in purus
+hyb,Inactive,27/10/2017,28/12/2016,false,amet turpis elementum ligula vehicula,pede malesuada in
+corp,Active,11/10/2017,10/01/2017,true,suspendisse potenti nullam porttitor,nulla facilisi cras
+com,Inactive,29/06/2018,02/02/2016,true,ipsum ac tellus semper interdum,vel augue
+com,Active,21/09/2018,27/10/2015,true,ultrices phasellus id sapien,in blandit ultrices enim
+com,Active,26/03/2018,29/01/2018,true,mi in porttitor pede justo,sit amet lobortis
+hyb,Active,01/01/2018,28/10/2015,true,commodo vulputate justo in,porttitor lacus
+corp,Inactive,20/02/2018,15/05/2018,false,sapien placerat ante nulla justo,nam
+corp,Inactive,12/02/2018,21/11/2015,false,consequat metus sapien ut nunc,mattis nibh ligula
+com,Inactive,30/08/2018,15/07/2018,true,tempus vivamus in felis,semper rutrum nulla nunc
+com,Active,10/03/2018,17/07/2017,true,est phasellus sit amet,velit vivamus vel nulla
+com,Active,26/04/2018,16/07/2016,false,varius integer ac leo pellentesque,sit
+hyb,Active,27/04/2018,26/08/2017,true,viverra pede,amet sem fusce consequat nulla
+corp,Active,01/01/2018,08/06/2018,true,elementum pellentesque quisque porta volutpat,phasellus sit amet erat
+com,Inactive,28/03/2018,23/02/2016,true,lacus curabitur at ipsum,in felis donec semper sapien
+hyb,Active,16/05/2018,30/08/2016,true,leo rhoncus sed,integer non velit donec
+hyb,Inactive,26/02/2018,13/08/2017,true,elementum nullam varius nulla facilisi,ut
+res,Active,08/06/2018,26/11/2017,true,volutpat quam pede,amet sapien
+com,Inactive,26/09/2018,03/06/2017,false,nisl,lobortis ligula sit amet
+hyb,Inactive,23/11/2017,15/07/2016,true,lacus,lobortis convallis tortor risus
+com,Inactive,20/11/2017,01/10/2018,false,vel lectus in quam fringilla,eget
+corp,Active,01/12/2017,05/12/2016,true,bibendum,vitae
+com,Active,18/07/2018,01/11/2017,true,parturient montes,cubilia curae
+res,Inactive,05/10/2018,15/09/2018,false,metus sapien,vestibulum ac
+hyb,Inactive,27/12/2017,30/06/2017,true,ultrices posuere cubilia curae,luctus cum
+com,Inactive,25/11/2017,12/08/2018,true,tincidunt in leo maecenas pulvinar,turpis
+corp,Inactive,30/08/2018,12/02/2017,true,quis,in lectus pellentesque at
+corp,Active,08/09/2018,25/06/2017,true,erat eros,viverra diam vitae
+res,Inactive,04/10/2018,07/12/2017,false,donec diam neque,donec
+corp,Inactive,28/09/2018,22/08/2018,true,ipsum primis in faucibus orci,vitae
+hyb,Active,29/03/2018,21/01/2016,false,consequat lectus,donec dapibus duis at velit
+corp,Active,28/03/2018,12/10/2016,true,et magnis dis parturient,donec ut mauris
+corp,Active,05/01/2018,01/04/2017,false,bibendum,interdum
+res,Inactive,07/03/2018,03/01/2016,false,commodo placerat,nibh ligula
+hyb,Inactive,15/09/2018,01/08/2016,false,tincidunt ante vel ipsum,sit
+res,Active,09/02/2018,12/03/2018,false,mauris eget,nec molestie sed justo pellentesque
+res,Inactive,19/05/2018,26/10/2017,true,nunc,integer tincidunt ante vel ipsum
+hyb,Inactive,12/08/2018,28/10/2016,true,nulla mollis,erat quisque erat eros
+corp,Active,22/06/2018,04/09/2017,true,dictumst etiam faucibus cursus urna,rutrum at lorem integer tincidunt
+com,Inactive,15/01/2018,31/10/2015,false,porttitor,interdum eu tincidunt in leo
+com,Inactive,16/08/2018,15/06/2017,true,imperdiet sapien urna pretium nisl,eget
+corp,Active,22/03/2018,17/11/2016,false,libero convallis,at lorem integer tincidunt
+com,Inactive,08/10/2018,28/06/2018,false,sapien in sapien,semper est quam pharetra
+corp,Active,25/05/2018,12/05/2017,true,sollicitudin vitae consectetuer,semper
+res,Active,27/06/2018,12/02/2018,true,ut odio cras mi pede,consectetuer adipiscing
+corp,Active,23/04/2018,26/04/2017,false,tempus,proin eu mi nulla
+hyb,Inactive,17/03/2018,08/03/2017,false,semper rutrum,velit
+com,Active,02/08/2018,31/05/2017,true,felis donec semper sapien a,ut ultrices vel
+corp,Inactive,25/08/2018,04/10/2017,false,erat,praesent blandit
+com,Active,09/02/2018,08/08/2016,false,pulvinar sed,aenean
+res,Inactive,16/04/2018,05/03/2018,true,fusce consequat,eu nibh quisque
+corp,Inactive,25/10/2017,19/04/2016,false,ac nulla sed vel enim,ipsum integer a nibh in
+corp,Inactive,26/07/2018,28/06/2018,false,blandit ultrices enim lorem,euismod scelerisque quam turpis adipiscing
+com,Active,16/12/2017,12/03/2018,true,sem sed,sed augue
+corp,Inactive,31/01/2018,08/05/2018,false,mi,enim in tempor turpis
+com,Inactive,11/03/2018,07/09/2016,true,eu est congue,maecenas pulvinar
+com,Active,27/06/2018,20/06/2016,false,sed augue aliquam erat volutpat,nibh in hac habitasse
+res,Active,15/04/2018,31/12/2017,true,luctus et ultrices posuere cubilia,elementum in
+corp,Inactive,30/06/2018,17/01/2018,true,sit amet consectetuer,ullamcorper augue a suscipit nulla
+corp,Inactive,18/07/2018,10/04/2016,false,morbi sem mauris,iaculis diam
+res,Active,21/05/2018,12/03/2017,true,sapien urna,mi pede malesuada in imperdiet
+res,Inactive,13/06/2018,09/11/2015,true,mauris enim leo rhoncus,nisl nunc nisl
+corp,Active,02/05/2018,31/05/2016,true,amet consectetuer adipiscing elit proin,massa tempor
+res,Inactive,23/06/2018,15/07/2016,false,nullam porttitor lacus at,ligula nec sem
+com,Active,10/01/2018,16/05/2017,true,nunc donec quis orci,elit ac nulla sed
+hyb,Inactive,14/11/2017,12/12/2016,false,pellentesque at nulla,lacus purus aliquet
+com,Inactive,28/08/2018,25/11/2017,true,vitae,ipsum integer a nibh in
+corp,Active,23/08/2018,17/07/2017,false,ut massa volutpat convallis morbi,quis tortor id nulla
+hyb,Inactive,01/08/2018,21/08/2018,true,porttitor lorem id ligula,morbi quis tortor id
+res,Active,07/01/2018,20/07/2017,false,turpis,vitae ipsum aliquam non mauris
+res,Inactive,22/04/2018,30/06/2018,false,justo in hac habitasse platea,consectetuer eget rutrum at
+corp,Inactive,27/07/2018,30/11/2016,true,sapien ut,nulla eget
+hyb,Active,08/08/2018,26/05/2016,false,montes nascetur ridiculus mus,ac leo pellentesque
+hyb,Inactive,17/10/2017,04/03/2018,false,lacinia nisi venenatis tristique fusce,laoreet ut rhoncus aliquet pulvinar
+res,Inactive,20/02/2018,14/09/2016,true,varius ut blandit non interdum,ipsum integer a nibh
+hyb,Active,15/01/2018,01/09/2016,false,proin at,faucibus orci luctus
+com,Inactive,01/08/2018,14/01/2018,false,augue,amet eleifend
+hyb,Inactive,28/02/2018,22/12/2017,true,venenatis tristique fusce congue diam,primis in faucibus orci
+com,Inactive,08/09/2018,11/12/2015,false,quam,scelerisque quam turpis
+com,Inactive,01/05/2018,28/04/2017,true,etiam vel augue vestibulum,imperdiet et commodo vulputate justo
+hyb,Active,01/08/2018,17/01/2018,false,ac tellus semper interdum,aliquam
+res,Active,31/07/2018,04/11/2016,false,et eros vestibulum ac est,at nulla
+corp,Inactive,08/12/2017,01/02/2016,false,dictumst etiam faucibus cursus,odio porttitor
+hyb,Inactive,01/10/2018,07/09/2018,false,at vulputate vitae nisl,habitasse platea dictumst aliquam augue
+corp,Active,11/12/2017,25/03/2017,true,nisi vulputate,pede libero quis orci
+com,Inactive,23/12/2017,20/11/2017,false,justo eu massa donec dapibus,justo sit amet
+res,Inactive,07/03/2018,10/07/2017,false,nulla,aenean fermentum
+corp,Active,21/01/2018,07/01/2018,false,molestie sed justo,ac lobortis vel dapibus at
+corp,Inactive,19/02/2018,31/05/2016,false,arcu adipiscing,primis
+corp,Inactive,21/08/2018,20/11/2017,true,aenean,condimentum
+hyb,Inactive,12/05/2018,23/05/2017,true,ligula pellentesque ultrices phasellus,interdum

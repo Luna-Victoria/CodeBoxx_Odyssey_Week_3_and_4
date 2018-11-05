@@ -1,0 +1,9 @@
+.result {
+    justify-content: center;
+    text-align: center;
+}
+
+.cute {
+    border: solid 2px rgba(255, 0, 0, 0.6);
+    border-radius: 3px;
+}

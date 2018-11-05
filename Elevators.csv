@@ -1,0 +1,501 @@
+Serial_number,Model,Type,Status,Activation_date,Last_inspection_date,Inspection_certificate,Information,Notes
+745568,Premium,corp,Inactive,17/02/2017,22/07/2017,TRUE,vivamus metus,augue vel accumsan
+699574,Standard,corp,Active,25/07/2017,05/08/2017,FALSE,ipsum,et ultrices posuere cubilia curae nulla dapibus
+815704,Premium,res,Inactive,29/01/2018,07/02/2018,TRUE,ac tellus semper,sociis natoque penatibus et magnis dis
+386320,Standard,res,Active,24/03/2018,02/12/2017,FALSE,metus arcu adipiscing molestie hendrerit at vulputate,turpis eget elit sodales scelerisque mauris sit amet
+330745,Standard,corp,Inactive,28/02/2018,21/03/2017,FALSE,ipsum primis in faucibus orci luctus et ultrices posuere,at feugiat non pretium quis lectus suspendisse potenti in
+921994,Premium,corp,Active,07/11/2016,22/09/2018,FALSE,sem fusce consequat nulla nisl nunc nisl duis,molestie sed justo pellentesque
+395683,Standard,res,Active,13/05/2017,21/10/2017,TRUE,nullam sit amet,posuere metus vitae ipsum aliquam non mauris morbi non
+511834,Excelium,corp,Active,05/05/2018,14/06/2018,FALSE,libero,odio cras mi pede malesuada in imperdiet
+936187,Standard,corp,Active,28/10/2016,13/03/2018,TRUE,imperdiet nullam orci pede venenatis non sodales sed tincidunt eu,duis faucibus accumsan odio curabitur convallis duis consequat dui
+282762,Excelium,corp,Inactive,21/11/2016,23/07/2018,FALSE,habitasse platea dictumst,lobortis vel dapibus at diam nam tristique tortor
+20936,Standard,corp,Inactive,06/04/2018,15/06/2018,TRUE,elementum in,est lacinia nisi venenatis
+928539,Excelium,hyb,Inactive,22/05/2017,12/08/2018,FALSE,ornare consequat lectus in est risus auctor sed,lobortis ligula sit amet eleifend pede libero quis orci nullam
+57586,Excelium,corp,Inactive,19/12/2016,02/01/2018,FALSE,parturient montes nascetur ridiculus mus vivamus vestibulum,quisque id justo sit amet sapien dignissim vestibulum vestibulum ante
+547438,Standard,hyb,Inactive,20/08/2018,08/08/2017,TRUE,pellentesque at,ante vel ipsum
+708198,Standard,corp,Inactive,14/08/2017,12/08/2017,FALSE,elit,ultrices erat tortor sollicitudin mi sit amet lobortis
+273601,Premium,hyb,Inactive,21/07/2017,23/02/2017,TRUE,eu massa donec dapibus duis at velit eu est congue,hac
+297956,Premium,corp,Inactive,23/10/2016,03/01/2017,FALSE,iaculis congue vivamus metus arcu,in
+758836,Premium,corp,Active,08/05/2017,22/02/2017,TRUE,ut massa quis augue luctus tincidunt nulla mollis,natoque penatibus et magnis
+954315,Standard,hyb,Active,21/12/2017,11/01/2018,FALSE,sapien cursus vestibulum proin eu mi nulla ac enim,aliquet pulvinar
+740227,Standard,hyb,Active,17/04/2017,11/03/2018,FALSE,semper,rhoncus sed vestibulum sit amet cursus id turpis integer aliquet
+804904,Standard,res,Inactive,29/06/2018,21/07/2017,TRUE,auctor sed tristique in tempus sit amet sem fusce,lacus curabitur at ipsum ac tellus semper interdum mauris
+625682,Standard,res,Inactive,13/01/2018,28/07/2017,FALSE,libero convallis,duis bibendum felis sed interdum venenatis turpis enim
+727554,Standard,hyb,Active,12/04/2017,23/06/2017,TRUE,maecenas tristique est et tempus semper est quam,id pretium iaculis diam erat fermentum justo nec condimentum
+650531,Standard,res,Inactive,18/10/2016,21/11/2016,TRUE,vestibulum ante ipsum primis in,aliquet massa id lobortis
+61543,Standard,res,Active,25/01/2017,03/01/2017,FALSE,sit amet nunc viverra dapibus nulla suscipit ligula in lacus,ligula sit amet eleifend pede libero quis orci
+606142,Excelium,hyb,Active,12/06/2018,28/03/2018,TRUE,ut nunc vestibulum ante ipsum primis in faucibus orci,vel accumsan tellus nisi
+412852,Excelium,corp,Inactive,29/09/2017,10/01/2018,FALSE,convallis morbi odio,suspendisse potenti
+333503,Standard,com,Active,28/05/2018,02/04/2018,FALSE,congue,imperdiet
+349192,Premium,corp,Active,27/03/2018,20/02/2017,FALSE,metus,nunc proin at turpis a pede
+361843,Standard,hyb,Active,23/12/2016,10/09/2017,FALSE,vestibulum ante ipsum primis in faucibus orci luctus et ultrices,posuere cubilia curae donec
+19456,Standard,hyb,Active,22/07/2017,24/07/2018,TRUE,volutpat,bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt
+414127,Standard,hyb,Inactive,17/04/2018,04/12/2016,TRUE,non mi integer ac neque duis bibendum,primis in faucibus orci luctus et ultrices
+565307,Excelium,res,Active,06/12/2017,11/10/2016,FALSE,ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet,fermentum donec ut mauris eget massa tempor
+793151,Standard,corp,Active,23/08/2017,05/05/2018,FALSE,lacinia nisi venenatis,lorem ipsum dolor sit amet consectetuer adipiscing elit proin risus
+765137,Standard,hyb,Inactive,05/10/2017,11/01/2018,FALSE,luctus rutrum nulla tellus in sagittis dui vel nisl duis,elit proin risus praesent
+565382,Premium,corp,Active,29/03/2018,12/03/2018,FALSE,donec odio justo,id turpis integer aliquet massa
+262815,Premium,com,Active,06/04/2018,01/12/2017,TRUE,duis bibendum morbi non quam nec dui luctus,sem sed sagittis
+58953,Excelium,hyb,Active,01/02/2018,11/10/2017,TRUE,cursus id turpis integer aliquet,pellentesque ultrices mattis odio donec
+747266,Excelium,corp,Inactive,14/04/2018,25/07/2018,FALSE,a pede posuere nonummy integer non velit donec,nibh in lectus pellentesque at nulla suspendisse potenti
+499566,Premium,res,Active,12/04/2017,19/10/2016,FALSE,in,lacinia nisi venenatis
+280681,Excelium,hyb,Inactive,13/05/2017,04/02/2018,FALSE,augue aliquam erat volutpat in congue etiam justo etiam,felis sed interdum venenatis turpis
+407343,Standard,res,Active,13/01/2017,14/12/2016,FALSE,ante vestibulum ante ipsum primis in faucibus orci,lacus morbi sem mauris laoreet ut rhoncus aliquet
+759556,Standard,res,Active,26/11/2017,16/02/2018,FALSE,a pede posuere nonummy,lobortis ligula sit amet eleifend pede libero quis
+77456,Excelium,com,Active,02/10/2017,17/09/2017,FALSE,ultrices phasellus,nulla dapibus dolor vel
+711799,Excelium,hyb,Active,06/07/2017,07/01/2018,TRUE,sapien,justo etiam pretium iaculis justo in hac habitasse platea
+626382,Standard,com,Active,24/06/2018,09/02/2017,FALSE,morbi non quam nec dui luctus rutrum nulla tellus in,mi nulla ac enim in
+719703,Premium,com,Inactive,28/07/2018,27/06/2017,TRUE,ac neque duis bibendum morbi non,ultricies eu nibh quisque id justo sit amet sapien
+677202,Excelium,hyb,Inactive,05/02/2017,18/03/2017,FALSE,aliquam sit amet diam,augue luctus tincidunt nulla mollis molestie lorem quisque ut
+827085,Premium,com,Active,11/11/2017,25/07/2018,TRUE,pellentesque volutpat dui maecenas tristique,urna ut tellus nulla ut erat id mauris vulputate elementum
+785001,Standard,corp,Inactive,04/08/2017,18/12/2017,TRUE,nulla integer pede justo lacinia,vel lectus in
+643102,Premium,com,Inactive,27/09/2017,30/11/2017,FALSE,faucibus orci luctus et ultrices posuere cubilia curae,semper est quam pharetra magna ac consequat metus sapien ut
+852247,Premium,corp,Inactive,25/03/2017,08/04/2018,TRUE,non mauris morbi non lectus aliquam sit amet diam,erat quisque erat eros
+828694,Premium,corp,Inactive,16/03/2017,19/08/2017,FALSE,sed accumsan felis ut at dolor quis odio consequat varius,semper sapien
+240731,Standard,corp,Inactive,16/04/2018,04/02/2017,FALSE,quam turpis adipiscing lorem vitae mattis nibh ligula nec sem,vestibulum rutrum rutrum
+304359,Excelium,corp,Active,29/10/2017,01/06/2018,TRUE,nisl aenean,amet eros
+748453,Excelium,corp,Inactive,16/11/2017,18/09/2017,FALSE,velit eu est congue elementum in hac,lobortis vel dapibus at diam
+572497,Standard,hyb,Inactive,01/04/2018,15/02/2017,TRUE,tortor id,mauris
+845799,Standard,com,Active,12/03/2017,31/10/2017,FALSE,eu magna vulputate,integer non velit donec diam neque vestibulum eget vulputate ut
+181934,Excelium,res,Inactive,18/04/2017,31/10/2016,FALSE,placerat ante nulla justo aliquam quis turpis eget elit,cursus vestibulum
+894060,Standard,corp,Active,10/02/2018,27/08/2017,FALSE,suspendisse ornare consequat lectus in est risus auctor sed,in libero ut massa volutpat convallis morbi odio odio elementum
+643305,Premium,com,Active,28/01/2017,05/01/2017,TRUE,in,vel
+634959,Premium,hyb,Inactive,16/02/2017,09/08/2017,FALSE,nec condimentum neque sapien placerat ante,id luctus nec molestie sed justo pellentesque
+983337,Excelium,hyb,Inactive,20/09/2018,02/01/2018,FALSE,turpis elementum ligula,orci nullam molestie nibh in lectus pellentesque
+264266,Standard,hyb,Inactive,13/08/2018,21/08/2017,TRUE,sed accumsan felis ut at dolor,ut blandit non interdum in ante
+108704,Excelium,res,Inactive,27/11/2017,10/01/2017,FALSE,quis orci eget orci vehicula condimentum curabitur in libero ut,vestibulum ante ipsum primis in
+285358,Excelium,hyb,Inactive,09/06/2017,06/11/2016,FALSE,vulputate luctus cum sociis natoque,vestibulum velit id pretium iaculis diam
+891123,Standard,com,Inactive,13/05/2017,01/12/2016,TRUE,duis aliquam convallis nunc proin at turpis a,amet
+447310,Excelium,hyb,Inactive,04/01/2018,14/01/2017,FALSE,suspendisse potenti nullam porttitor lacus at turpis donec posuere,risus praesent lectus vestibulum quam
+251489,Premium,com,Inactive,16/05/2017,02/08/2018,TRUE,pharetra magna vestibulum aliquet ultrices erat,felis eu sapien cursus vestibulum proin
+65558,Excelium,corp,Inactive,04/02/2018,21/11/2017,TRUE,in hac habitasse,interdum mauris non ligula pellentesque ultrices phasellus id sapien
+177707,Premium,hyb,Active,17/02/2018,28/04/2017,FALSE,sed,aliquam sit amet diam in magna
+906137,Excelium,com,Inactive,05/08/2017,29/01/2017,FALSE,ut erat curabitur gravida,volutpat erat quisque erat eros viverra eget
+380022,Excelium,com,Active,22/06/2017,08/04/2017,FALSE,condimentum id luctus nec molestie sed justo pellentesque viverra pede,justo morbi ut odio cras mi pede
+279898,Premium,corp,Inactive,19/10/2017,07/02/2017,TRUE,cras pellentesque volutpat dui maecenas tristique est et tempus semper,vivamus
+26004,Excelium,res,Inactive,12/07/2018,30/05/2018,FALSE,eu magna vulputate luctus cum sociis natoque penatibus,nibh in quis justo maecenas rhoncus aliquam
+229150,Excelium,com,Active,12/03/2017,02/12/2016,FALSE,blandit lacinia erat vestibulum sed magna at nunc commodo placerat,sit amet nulla quisque arcu libero rutrum ac lobortis
+376757,Excelium,hyb,Active,02/09/2018,04/07/2017,FALSE,urna pretium nisl ut volutpat sapien arcu,leo maecenas pulvinar lobortis est phasellus sit
+561686,Premium,res,Active,16/08/2017,10/03/2018,FALSE,fusce congue,nulla
+4214,Premium,com,Active,10/09/2018,16/12/2016,TRUE,libero rutrum ac lobortis vel,accumsan felis
+871504,Standard,com,Inactive,28/12/2016,21/07/2017,FALSE,vitae consectetuer eget rutrum at lorem integer,velit id pretium iaculis diam erat
+444859,Standard,hyb,Inactive,23/03/2018,09/06/2018,FALSE,sagittis nam congue risus semper porta volutpat quam pede lobortis,id nisl venenatis lacinia aenean sit amet justo morbi ut
+372772,Excelium,hyb,Active,21/05/2017,14/05/2018,TRUE,vulputate justo in blandit ultrices enim,odio in hac habitasse platea
+866855,Premium,corp,Inactive,02/07/2018,13/02/2018,TRUE,volutpat dui maecenas tristique est et tempus semper est,felis
+93886,Excelium,corp,Active,27/09/2017,20/12/2016,FALSE,nec nisi vulputate nonummy,porttitor lacus at turpis donec posuere
+57341,Standard,res,Active,29/03/2017,02/08/2017,FALSE,bibendum morbi non quam nec,odio
+717519,Standard,hyb,Inactive,19/11/2016,14/10/2017,FALSE,lacus morbi quis tortor,orci luctus et ultrices posuere cubilia curae duis faucibus accumsan
+627883,Standard,corp,Active,28/05/2017,26/10/2017,FALSE,vestibulum ante ipsum primis in faucibus orci luctus et,congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae
+892487,Standard,com,Active,12/05/2018,30/07/2018,FALSE,imperdiet et commodo,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus
+273702,Excelium,hyb,Active,31/01/2018,01/07/2017,TRUE,venenatis turpis enim blandit mi,donec
+282021,Standard,hyb,Active,31/05/2017,14/12/2016,TRUE,ornare imperdiet sapien urna pretium nisl ut volutpat,pede
+297776,Standard,hyb,Inactive,12/05/2017,05/09/2018,FALSE,eu mi nulla ac enim,consequat
+50441,Excelium,hyb,Active,26/01/2018,02/07/2018,FALSE,aliquet at,venenatis turpis enim blandit mi in porttitor pede justo
+115833,Excelium,res,Inactive,25/12/2016,20/11/2016,FALSE,sapien iaculis congue vivamus,vehicula consequat morbi a
+764705,Standard,res,Inactive,05/03/2018,10/12/2016,TRUE,tellus semper interdum mauris ullamcorper purus sit amet nulla quisque,non lectus aliquam sit amet diam in magna
+980805,Excelium,hyb,Inactive,01/11/2017,26/03/2017,FALSE,sed accumsan,interdum mauris non ligula pellentesque ultrices phasellus id
+435955,Premium,res,Active,10/11/2016,08/03/2017,FALSE,magnis dis,sodales scelerisque mauris sit amet eros suspendisse accumsan
+776431,Standard,corp,Inactive,29/03/2017,02/05/2017,TRUE,dui vel sem sed sagittis nam,enim
+256322,Excelium,corp,Active,24/06/2017,21/05/2017,TRUE,turpis,dictumst morbi
+965754,Excelium,hyb,Inactive,28/08/2018,24/06/2018,TRUE,magnis dis,ut massa volutpat convallis morbi odio odio elementum eu interdum
+578751,Standard,com,Active,29/04/2018,14/07/2018,TRUE,ut blandit non interdum in ante vestibulum ante ipsum,pellentesque at nulla suspendisse potenti cras in purus eu magna
+686056,Premium,com,Active,20/01/2018,20/08/2018,FALSE,aenean fermentum donec ut mauris eget massa tempor convallis,et magnis dis parturient montes nascetur ridiculus
+82126,Premium,res,Active,09/02/2018,16/11/2016,FALSE,nunc rhoncus dui vel sem sed sagittis nam congue,morbi sem mauris laoreet ut rhoncus
+50824,Standard,hyb,Active,25/07/2018,05/12/2016,FALSE,a odio in hac habitasse platea dictumst maecenas,duis ac nibh fusce lacus purus aliquet at feugiat
+637663,Standard,com,Inactive,08/06/2018,14/11/2017,FALSE,in imperdiet et commodo vulputate justo in blandit,aliquam
+619043,Excelium,res,Active,27/12/2016,23/05/2018,TRUE,aliquet ultrices erat tortor sollicitudin mi sit amet lobortis,nulla integer pede justo lacinia eget tincidunt
+155985,Premium,res,Active,20/08/2017,26/02/2018,FALSE,hac habitasse platea dictumst aliquam augue quam sollicitudin,aliquam convallis nunc proin at
+280635,Excelium,hyb,Inactive,11/12/2017,26/09/2017,FALSE,suscipit nulla elit ac nulla sed vel,maecenas leo odio condimentum
+214715,Standard,res,Inactive,01/01/2018,26/09/2017,FALSE,sit amet erat nulla tempus vivamus,mattis odio donec vitae nisi nam ultrices libero non
+402842,Premium,com,Inactive,26/03/2017,20/01/2018,FALSE,ultrices erat tortor sollicitudin mi sit amet lobortis,amet lobortis sapien sapien non mi integer ac neque duis
+158782,Premium,res,Inactive,15/04/2017,24/12/2017,TRUE,vivamus vestibulum sagittis sapien cum sociis natoque penatibus et,donec odio justo sollicitudin ut suscipit a
+28207,Excelium,hyb,Active,22/12/2016,13/04/2017,TRUE,ornare consequat lectus in est risus,porta volutpat erat quisque erat eros viverra eget
+219684,Standard,corp,Inactive,02/01/2018,09/04/2018,TRUE,lectus suspendisse potenti in eleifend quam a odio,nunc vestibulum ante ipsum primis in faucibus orci luctus et
+644471,Premium,com,Inactive,29/05/2018,10/08/2018,TRUE,non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla,lacus purus
+889831,Standard,res,Inactive,03/04/2018,26/06/2017,TRUE,pretium iaculis justo in hac habitasse,ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+204737,Excelium,hyb,Active,07/07/2018,07/07/2018,FALSE,platea dictumst morbi vestibulum velit id pretium iaculis diam erat,amet eleifend
+169659,Premium,hyb,Active,01/08/2017,25/09/2018,FALSE,arcu libero rutrum ac lobortis vel dapibus at diam,ac tellus semper interdum mauris ullamcorper purus sit
+265145,Premium,corp,Inactive,05/06/2017,02/03/2018,FALSE,sit amet eleifend pede libero quis orci nullam molestie,platea dictumst maecenas ut massa quis augue
+959210,Standard,res,Inactive,15/12/2017,04/01/2017,TRUE,justo,mattis egestas metus aenean fermentum donec ut
+958921,Standard,com,Active,06/03/2018,16/12/2017,TRUE,vel ipsum praesent blandit lacinia,pellentesque at nulla suspendisse potenti cras in purus
+720836,Premium,com,Active,08/09/2018,09/08/2017,FALSE,eu,vel est donec odio justo sollicitudin
+855070,Excelium,res,Inactive,07/11/2016,27/12/2016,FALSE,nulla sed vel enim,curabitur at ipsum ac tellus semper interdum mauris ullamcorper
+640643,Standard,com,Inactive,27/12/2017,15/12/2017,FALSE,mauris enim leo rhoncus sed vestibulum sit amet cursus id,purus aliquet at feugiat non pretium quis lectus suspendisse potenti
+952156,Excelium,com,Inactive,04/11/2017,09/09/2017,FALSE,faucibus orci luctus et,sed ante vivamus tortor duis mattis egestas metus aenean
+692064,Standard,res,Active,28/10/2017,22/04/2018,TRUE,nulla ut,libero ut massa volutpat
+433843,Standard,res,Active,04/02/2017,19/03/2017,FALSE,justo morbi ut odio,pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus
+198032,Standard,hyb,Inactive,03/06/2018,29/12/2017,FALSE,velit nec nisi,elementum pellentesque quisque porta volutpat erat
+224282,Excelium,res,Inactive,09/04/2018,24/07/2018,TRUE,dolor vel est donec odio justo sollicitudin ut,risus auctor sed
+178022,Premium,corp,Active,16/05/2017,20/03/2018,TRUE,tortor duis mattis,interdum in ante
+411002,Standard,res,Active,07/06/2017,26/04/2017,TRUE,vulputate elementum nullam varius nulla facilisi cras non,at diam nam tristique tortor
+195330,Standard,hyb,Inactive,20/04/2017,29/08/2017,FALSE,id mauris vulputate elementum,id consequat in consequat ut nulla sed accumsan felis
+138106,Premium,corp,Inactive,06/11/2016,12/07/2017,FALSE,nam dui proin leo odio porttitor id consequat in consequat,nisi nam ultrices libero non mattis
+334310,Excelium,com,Active,25/12/2016,16/01/2017,TRUE,quam turpis adipiscing lorem vitae mattis nibh ligula nec sem,bibendum imperdiet
+288240,Premium,corp,Inactive,11/09/2017,25/11/2016,TRUE,non mauris,mauris morbi non lectus
+142478,Standard,res,Active,07/07/2018,15/07/2017,TRUE,semper sapien a libero nam dui proin leo odio,vel augue vestibulum
+108793,Excelium,corp,Inactive,27/09/2017,31/12/2017,TRUE,quisque ut erat curabitur,at nunc
+583830,Premium,hyb,Active,09/09/2018,06/12/2017,TRUE,lacus curabitur at,nullam orci pede venenatis
+633748,Premium,res,Inactive,01/09/2017,26/06/2017,TRUE,tellus in sagittis,ac consequat metus sapien ut nunc vestibulum
+585003,Standard,hyb,Inactive,23/02/2018,20/12/2017,FALSE,cursus urna ut tellus nulla ut,in magna
+713322,Standard,hyb,Active,09/08/2017,01/02/2018,FALSE,aliquam non mauris morbi non,ut mauris eget massa
+341103,Excelium,res,Inactive,09/01/2018,03/08/2018,FALSE,molestie hendrerit at vulputate vitae nisl aenean lectus,imperdiet nullam orci pede venenatis non
+406031,Premium,com,Inactive,28/12/2017,15/05/2017,TRUE,convallis tortor risus dapibus augue vel accumsan,ut
+263792,Standard,hyb,Active,11/04/2017,14/10/2016,TRUE,sed tristique in,amet cursus id turpis integer aliquet massa id lobortis convallis
+505882,Excelium,hyb,Active,06/08/2017,22/02/2018,TRUE,aliquet maecenas leo odio condimentum id luctus nec molestie sed,scelerisque mauris sit amet eros suspendisse accumsan tortor quis
+910421,Standard,corp,Active,29/06/2018,15/11/2017,TRUE,luctus tincidunt nulla mollis,rhoncus sed vestibulum sit
+554375,Premium,com,Inactive,15/02/2018,19/08/2018,TRUE,aliquam,dui luctus rutrum
+176617,Standard,hyb,Active,27/01/2017,21/10/2017,TRUE,arcu libero rutrum ac lobortis vel dapibus at diam,suscipit nulla elit ac nulla sed vel
+120194,Excelium,com,Inactive,04/01/2017,26/10/2016,TRUE,turpis integer aliquet massa id lobortis,curabitur convallis duis consequat dui nec nisi volutpat
+540699,Standard,hyb,Inactive,19/09/2018,26/09/2018,FALSE,eros viverra eget,luctus rutrum nulla tellus in sagittis dui vel nisl duis
+614337,Standard,res,Inactive,01/07/2017,22/10/2017,FALSE,vel pede morbi porttitor lorem id ligula,rutrum at lorem integer tincidunt ante vel ipsum
+477999,Standard,corp,Inactive,21/05/2017,02/11/2017,TRUE,aliquam erat,imperdiet nullam orci pede
+689005,Excelium,corp,Active,24/03/2017,12/10/2016,FALSE,viverra eget,donec quis orci eget orci vehicula condimentum curabitur in
+325154,Excelium,hyb,Active,14/05/2018,07/12/2016,TRUE,faucibus orci luctus et ultrices posuere,scelerisque quam
+973752,Standard,corp,Inactive,23/09/2018,30/09/2017,TRUE,ut at dolor quis odio consequat varius integer ac leo,commodo vulputate justo in blandit
+605926,Standard,com,Active,18/05/2017,18/05/2018,TRUE,erat volutpat in congue etiam justo etiam pretium iaculis justo,nulla dapibus dolor vel
+506479,Standard,hyb,Active,24/11/2016,12/09/2018,TRUE,sollicitudin vitae consectetuer eget rutrum,magna vulputate luctus cum sociis natoque
+27787,Premium,corp,Inactive,26/01/2018,21/11/2016,TRUE,vel dapibus,nulla nunc purus phasellus in felis donec semper sapien a
+569753,Premium,com,Active,18/10/2017,21/06/2018,FALSE,bibendum,ipsum primis
+615706,Standard,res,Active,13/03/2018,12/12/2017,FALSE,fusce,imperdiet et commodo vulputate
+911542,Excelium,com,Inactive,04/07/2018,25/01/2017,FALSE,erat tortor sollicitudin mi sit amet,fusce consequat nulla
+50787,Standard,com,Inactive,25/11/2016,20/07/2018,FALSE,luctus,ligula in
+35032,Standard,com,Active,11/07/2018,24/07/2018,TRUE,eu tincidunt,lacinia sapien quis libero nullam sit amet
+57425,Excelium,res,Active,03/08/2018,27/02/2017,TRUE,integer aliquet massa id lobortis convallis,posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis
+679647,Premium,corp,Active,07/11/2016,27/03/2018,FALSE,nulla ut erat id,sapien a libero nam dui proin leo odio porttitor id
+601266,Premium,corp,Active,08/06/2017,12/01/2017,FALSE,pulvinar lobortis est phasellus sit,porta volutpat quam pede lobortis ligula
+72932,Standard,corp,Active,12/10/2016,21/04/2017,TRUE,dapibus augue vel accumsan tellus nisi eu orci,sapien arcu sed augue aliquam erat
+384227,Premium,com,Active,08/04/2018,27/05/2018,TRUE,rhoncus mauris enim leo rhoncus sed,augue aliquam erat volutpat in congue etiam justo etiam
+878063,Standard,corp,Active,24/02/2018,16/08/2017,FALSE,vivamus vel nulla eget eros,nibh in lectus pellentesque at nulla suspendisse potenti cras in
+929057,Excelium,res,Inactive,25/02/2017,05/05/2017,FALSE,turpis sed ante vivamus tortor duis mattis egestas metus aenean,tincidunt nulla mollis
+622840,Standard,hyb,Inactive,10/04/2018,05/04/2018,FALSE,praesent blandit lacinia,amet sem fusce
+9663,Premium,hyb,Active,15/11/2016,28/03/2017,TRUE,tortor id nulla ultrices aliquet maecenas leo odio condimentum id,orci luctus et ultrices posuere cubilia curae mauris
+891278,Premium,corp,Active,13/06/2018,27/03/2017,TRUE,vulputate nonummy maecenas tincidunt lacus at velit vivamus vel,dolor
+631162,Standard,res,Inactive,09/12/2016,08/10/2018,FALSE,sed lacus morbi sem mauris laoreet,donec
+338548,Premium,corp,Active,30/12/2017,06/08/2018,TRUE,sapien urna pretium,velit eu
+586411,Standard,res,Inactive,14/10/2016,23/10/2016,FALSE,vulputate ut ultrices vel augue vestibulum ante ipsum primis,sed augue aliquam erat
+748892,Premium,res,Inactive,23/03/2018,18/09/2018,TRUE,varius ut blandit non,quis justo maecenas rhoncus
+786628,Excelium,hyb,Inactive,30/03/2017,27/09/2018,TRUE,donec odio justo sollicitudin ut,gravida
+54379,Premium,hyb,Inactive,12/04/2018,15/06/2018,TRUE,placerat,sem praesent id massa id nisl venenatis lacinia aenean sit
+762090,Premium,res,Inactive,11/03/2018,08/05/2017,FALSE,morbi ut odio cras mi,justo morbi
+363603,Standard,com,Inactive,15/07/2017,10/10/2017,FALSE,dolor,curae donec pharetra magna
+703283,Standard,corp,Inactive,03/06/2017,04/12/2017,FALSE,phasellus sit amet erat nulla tempus,mi pede
+238880,Premium,com,Inactive,23/02/2017,07/06/2017,FALSE,orci luctus et ultrices posuere cubilia curae donec pharetra magna,rutrum at lorem integer tincidunt ante vel
+143731,Excelium,corp,Inactive,26/11/2016,10/10/2017,TRUE,maecenas pulvinar lobortis est phasellus,nulla eget eros elementum pellentesque quisque
+194902,Standard,res,Active,25/08/2017,11/10/2017,FALSE,cras pellentesque volutpat dui maecenas tristique est et tempus semper,amet sapien dignissim vestibulum
+692036,Standard,res,Active,12/08/2017,25/01/2017,TRUE,nulla pede ullamcorper augue a suscipit nulla elit,sapien in sapien iaculis congue vivamus
+464505,Standard,res,Active,31/05/2017,19/08/2018,TRUE,vehicula condimentum curabitur in libero,vel est donec
+977010,Excelium,hyb,Inactive,31/10/2016,11/02/2017,FALSE,integer pede,ipsum praesent blandit lacinia erat
+102049,Standard,res,Active,05/07/2017,24/03/2017,TRUE,est congue elementum in,lectus in est risus auctor sed
+330236,Standard,res,Inactive,14/03/2017,27/07/2017,FALSE,in ante vestibulum ante ipsum,purus sit amet
+50306,Premium,hyb,Inactive,09/05/2018,10/06/2018,TRUE,duis at velit eu est congue elementum in hac habitasse,non quam nec dui luctus rutrum nulla tellus in
+554854,Standard,hyb,Active,24/04/2017,07/11/2016,TRUE,faucibus orci,enim leo rhoncus sed vestibulum
+357957,Standard,com,Active,21/12/2016,26/12/2016,FALSE,varius ut blandit non interdum in ante vestibulum,tristique est et tempus semper est quam
+812715,Standard,corp,Inactive,09/09/2018,21/08/2017,FALSE,rutrum rutrum neque aenean auctor gravida sem,eu est congue elementum in
+485930,Premium,res,Inactive,16/04/2017,28/01/2017,FALSE,integer pede justo lacinia eget tincidunt eget,at
+573118,Premium,res,Inactive,01/05/2017,13/10/2017,TRUE,tempus semper est quam pharetra magna,mi in porttitor pede
+306584,Excelium,hyb,Inactive,05/10/2018,07/02/2017,TRUE,curabitur gravida,nisi venenatis tristique fusce congue diam
+866670,Standard,com,Inactive,22/10/2017,30/11/2016,TRUE,habitasse platea dictumst aliquam augue quam sollicitudin,amet sapien dignissim
+229460,Standard,hyb,Active,05/09/2018,17/07/2017,FALSE,turpis nec euismod scelerisque quam turpis,ut suscipit a feugiat et eros vestibulum ac est
+312464,Standard,com,Active,22/03/2018,30/05/2017,TRUE,ac est,vitae nisl aenean lectus pellentesque
+552992,Premium,com,Active,22/08/2018,15/11/2016,FALSE,augue vestibulum rutrum rutrum neque aenean,mus etiam
+344469,Premium,com,Active,02/08/2018,30/09/2017,FALSE,interdum mauris non ligula pellentesque ultrices phasellus id sapien,mauris enim leo rhoncus sed vestibulum sit amet cursus
+995621,Premium,com,Active,07/01/2018,19/09/2018,TRUE,suscipit nulla,nunc nisl duis bibendum
+894673,Excelium,corp,Inactive,06/08/2018,02/05/2018,FALSE,mi in porttitor pede justo eu massa,lacus curabitur at ipsum ac
+313636,Excelium,corp,Active,02/08/2017,06/06/2017,FALSE,neque vestibulum eget vulputate ut ultrices vel augue,tempus semper est quam
+185198,Excelium,com,Active,11/09/2017,17/06/2018,FALSE,nunc proin at turpis a pede,semper interdum mauris ullamcorper purus sit
+797259,Standard,res,Active,10/09/2018,20/04/2017,TRUE,donec odio justo sollicitudin ut,nisl venenatis
+881427,Excelium,corp,Active,15/09/2017,04/01/2017,FALSE,ipsum primis in faucibus orci luctus,metus sapien ut nunc vestibulum ante ipsum
+642500,Standard,res,Active,11/01/2018,15/10/2017,FALSE,eget semper rutrum nulla nunc purus phasellus in,convallis
+505972,Premium,corp,Active,30/01/2018,13/10/2016,TRUE,vitae nisl aenean,augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer
+365726,Premium,hyb,Inactive,12/02/2017,01/07/2017,TRUE,vestibulum ante ipsum primis in faucibus orci luctus,pulvinar
+171244,Excelium,res,Active,17/09/2018,29/04/2017,FALSE,hendrerit at vulputate,mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus
+5080,Standard,corp,Inactive,26/05/2018,25/01/2018,FALSE,augue vel accumsan tellus nisi eu orci mauris lacinia,non ligula pellentesque
+384018,Premium,com,Active,23/01/2017,23/10/2017,TRUE,eleifend,pede morbi porttitor lorem id ligula suspendisse
+69116,Standard,com,Inactive,01/05/2017,04/10/2018,FALSE,eleifend luctus ultricies eu,luctus nec molestie sed justo pellentesque viverra pede ac diam
+225784,Excelium,com,Inactive,18/02/2017,30/03/2018,TRUE,at nulla suspendisse potenti cras in purus eu magna,ipsum primis in faucibus
+573327,Standard,hyb,Active,07/04/2017,16/03/2018,TRUE,non sodales sed tincidunt eu felis fusce posuere,odio consequat varius integer ac leo pellentesque ultrices mattis odio
+233714,Excelium,res,Active,17/05/2017,02/06/2017,FALSE,quisque,sit amet eleifend pede libero quis orci
+160928,Excelium,hyb,Active,16/05/2018,26/12/2016,TRUE,nulla integer pede justo lacinia,leo rhoncus sed vestibulum sit amet cursus id turpis integer
+647974,Premium,com,Inactive,28/10/2017,25/06/2018,FALSE,etiam faucibus cursus urna ut tellus nulla ut erat id,sapien iaculis congue vivamus metus arcu
+168232,Premium,corp,Active,29/05/2017,01/11/2016,TRUE,nulla suscipit ligula in lacus curabitur,lectus in
+230228,Standard,corp,Active,22/03/2017,06/03/2017,TRUE,blandit non interdum in ante vestibulum,felis fusce posuere felis sed lacus
+241886,Excelium,com,Active,24/08/2018,01/02/2018,TRUE,magna at nunc commodo,consequat varius integer ac leo pellentesque ultrices mattis odio
+793957,Excelium,corp,Inactive,02/02/2017,18/06/2017,TRUE,pulvinar,orci luctus et ultrices posuere cubilia curae
+853059,Excelium,hyb,Inactive,02/01/2018,23/12/2017,TRUE,erat vestibulum sed magna at nunc commodo placerat praesent,maecenas pulvinar lobortis est phasellus sit amet erat nulla
+13619,Premium,res,Active,16/11/2017,03/07/2017,FALSE,id ligula suspendisse ornare consequat lectus in est,phasellus in felis donec semper sapien a libero nam dui
+265944,Standard,hyb,Active,30/04/2017,26/10/2016,TRUE,interdum mauris,imperdiet nullam
+113587,Standard,corp,Inactive,29/12/2016,10/09/2018,FALSE,sapien non mi integer ac neque duis,ut nunc vestibulum
+41334,Premium,hyb,Active,27/03/2018,06/06/2018,FALSE,primis in faucibus orci,nascetur ridiculus
+526728,Excelium,hyb,Active,07/12/2017,28/12/2017,FALSE,justo in hac habitasse platea dictumst etiam faucibus cursus,blandit lacinia erat vestibulum sed magna
+505675,Excelium,corp,Active,20/09/2017,26/02/2017,TRUE,lorem quisque,in ante vestibulum ante ipsum primis in faucibus orci
+25074,Standard,com,Inactive,28/08/2017,01/04/2017,TRUE,lorem id ligula suspendisse,integer ac neque duis bibendum morbi non quam nec dui
+704004,Excelium,corp,Inactive,08/04/2017,16/05/2017,TRUE,sed ante vivamus tortor duis mattis egestas,dapibus augue vel accumsan tellus
+246461,Excelium,hyb,Active,07/05/2018,02/04/2017,TRUE,lectus in est risus,elementum ligula vehicula consequat morbi a
+219958,Standard,res,Inactive,17/04/2017,25/10/2017,TRUE,curabitur gravida nisi,integer a nibh in quis justo maecenas rhoncus aliquam lacus
+583103,Premium,hyb,Active,29/03/2017,13/02/2018,TRUE,non sodales sed tincidunt eu felis fusce posuere felis,aliquam quis turpis eget elit sodales scelerisque
+591378,Premium,com,Active,22/12/2016,28/03/2017,TRUE,aliquam non mauris morbi non lectus aliquam sit,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit
+474703,Excelium,hyb,Inactive,13/10/2016,29/11/2016,FALSE,sagittis sapien cum sociis natoque penatibus,donec semper
+11439,Standard,corp,Inactive,23/03/2018,03/08/2017,FALSE,a pede posuere nonummy integer non velit donec diam,hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc
+372818,Excelium,hyb,Inactive,17/08/2018,17/01/2017,FALSE,integer pede justo lacinia eget tincidunt eget tempus,potenti
+239274,Premium,hyb,Inactive,01/06/2018,03/10/2018,TRUE,eu magna vulputate luctus cum sociis natoque penatibus et,nunc vestibulum ante ipsum primis in faucibus orci luctus
+434737,Standard,corp,Active,18/06/2017,16/07/2018,TRUE,lectus vestibulum quam sapien varius,vehicula consequat morbi a
+2214,Standard,hyb,Inactive,07/08/2018,27/09/2018,FALSE,luctus et ultrices posuere cubilia curae,turpis integer aliquet massa
+825934,Premium,hyb,Inactive,21/12/2017,14/02/2018,TRUE,id justo sit amet sapien dignissim vestibulum vestibulum,semper rutrum nulla nunc purus phasellus
+374517,Premium,com,Active,16/04/2018,25/10/2016,TRUE,elit sodales scelerisque mauris sit amet eros suspendisse,quis tortor id nulla ultrices aliquet maecenas leo odio
+878307,Premium,corp,Inactive,25/04/2018,17/02/2017,FALSE,et ultrices posuere cubilia curae donec,sit amet sapien dignissim
+279975,Excelium,hyb,Inactive,28/05/2017,27/12/2017,TRUE,pede libero quis orci nullam molestie,a libero nam dui proin
+342695,Standard,corp,Active,18/12/2016,23/03/2017,FALSE,tempor turpis nec,non
+21607,Premium,com,Active,24/01/2017,05/10/2017,FALSE,odio condimentum id luctus nec molestie sed justo,interdum mauris ullamcorper purus sit amet nulla
+131643,Standard,com,Inactive,12/08/2018,21/10/2017,FALSE,donec semper sapien,ut
+406543,Premium,com,Inactive,07/06/2018,30/04/2017,TRUE,in faucibus orci luctus et,nisi volutpat eleifend donec ut dolor morbi vel lectus in
+413738,Standard,res,Inactive,14/03/2017,09/08/2017,FALSE,ligula sit amet eleifend pede libero quis,nisl venenatis lacinia aenean sit amet justo morbi
+44748,Premium,res,Inactive,11/09/2017,26/03/2017,FALSE,volutpat in congue etiam justo etiam pretium,ipsum dolor sit
+39852,Excelium,hyb,Active,06/08/2017,24/09/2017,TRUE,justo,lectus pellentesque at nulla suspendisse
+744691,Premium,corp,Inactive,29/05/2018,09/03/2018,FALSE,enim sit amet,quam sollicitudin vitae consectetuer eget rutrum at
+730158,Excelium,com,Inactive,16/11/2017,14/10/2016,TRUE,diam in magna,pellentesque volutpat dui maecenas tristique est
+472505,Premium,com,Active,15/07/2018,09/10/2016,FALSE,elementum in hac habitasse platea dictumst,libero convallis eget eleifend luctus ultricies eu
+561582,Premium,com,Active,25/06/2018,21/10/2017,FALSE,sit amet eros suspendisse accumsan tortor quis turpis,volutpat sapien arcu sed augue
+374701,Standard,corp,Inactive,24/10/2016,30/06/2018,TRUE,nec nisi volutpat,posuere cubilia curae nulla
+218878,Premium,hyb,Active,23/11/2016,03/03/2017,TRUE,mauris morbi non lectus aliquam,pellentesque ultrices phasellus id sapien
+599520,Excelium,com,Active,12/10/2016,29/12/2017,FALSE,quisque arcu,risus semper porta volutpat quam
+162558,Premium,res,Inactive,22/02/2018,15/11/2017,FALSE,interdum mauris non,risus auctor sed tristique
+817332,Standard,res,Active,28/03/2017,08/03/2018,TRUE,proin eu mi nulla,tristique
+431571,Premium,com,Active,24/04/2018,18/05/2018,FALSE,justo,vel lectus
+97425,Excelium,com,Inactive,19/11/2016,27/04/2017,TRUE,consequat morbi a,turpis a pede
+76905,Premium,com,Active,29/08/2017,06/03/2017,TRUE,convallis nunc proin at,semper porta
+339750,Standard,res,Inactive,27/06/2018,12/05/2017,TRUE,velit id pretium iaculis diam,sed accumsan felis ut at dolor
+193400,Excelium,res,Inactive,19/09/2017,05/11/2017,FALSE,nulla ultrices aliquet maecenas leo odio condimentum id,a suscipit nulla elit ac nulla sed vel enim sit
+52937,Standard,corp,Inactive,17/08/2018,17/10/2017,TRUE,rhoncus mauris enim leo rhoncus sed vestibulum sit,eros vestibulum ac est lacinia nisi venenatis tristique fusce congue
+846873,Excelium,res,Inactive,26/08/2018,03/08/2018,FALSE,velit nec nisi vulputate nonummy,quisque ut erat curabitur gravida nisi at
+67906,Premium,corp,Active,11/12/2016,01/04/2017,TRUE,integer ac neque duis bibendum morbi non quam nec,interdum mauris non ligula pellentesque ultrices phasellus id sapien in
+128342,Premium,hyb,Active,21/09/2018,15/09/2017,TRUE,ligula sit amet eleifend,consequat morbi a ipsum integer a nibh in
+750377,Premium,hyb,Active,01/01/2017,28/06/2017,TRUE,lectus pellentesque eget nunc donec quis orci eget,amet eleifend pede libero quis orci nullam molestie nibh
+621200,Excelium,com,Active,31/07/2017,19/06/2017,TRUE,amet erat nulla tempus vivamus in felis,at diam nam tristique tortor eu pede
+746169,Excelium,com,Active,06/05/2018,29/09/2018,TRUE,ac consequat metus sapien ut nunc vestibulum ante,luctus cum sociis natoque penatibus et magnis dis parturient montes
+388747,Premium,hyb,Active,23/04/2018,25/12/2016,TRUE,donec vitae nisi,malesuada in imperdiet et commodo
+991774,Standard,hyb,Inactive,01/11/2017,06/10/2017,TRUE,ultrices enim lorem ipsum dolor sit amet consectetuer,vivamus tortor duis mattis egestas metus
+751415,Standard,com,Active,17/08/2017,21/10/2016,TRUE,consequat,aliquam
+159939,Standard,res,Inactive,08/05/2018,11/07/2017,TRUE,nullam molestie,sapien a libero
+425807,Excelium,com,Inactive,26/06/2017,12/12/2017,TRUE,justo sollicitudin ut suscipit a,faucibus accumsan odio curabitur
+57869,Standard,res,Inactive,18/08/2018,29/04/2017,TRUE,turpis,platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum
+336225,Standard,res,Inactive,03/06/2018,06/05/2017,FALSE,interdum mauris ullamcorper purus sit amet nulla quisque arcu libero,aenean lectus pellentesque
+247482,Premium,corp,Active,23/03/2018,24/07/2018,FALSE,sed magna,sit amet nulla quisque arcu
+987093,Excelium,com,Active,24/12/2016,14/03/2018,FALSE,sit amet,justo etiam pretium iaculis
+267396,Excelium,res,Inactive,18/03/2018,01/01/2018,TRUE,accumsan felis ut at,rutrum at lorem integer tincidunt ante
+640814,Excelium,hyb,Inactive,24/11/2016,04/03/2017,FALSE,ut,quisque erat eros viverra eget congue eget semper rutrum
+376273,Excelium,res,Active,05/08/2017,05/05/2017,TRUE,luctus rutrum nulla tellus in sagittis dui vel nisl,suspendisse accumsan tortor quis
+306983,Excelium,corp,Active,08/02/2018,17/06/2017,FALSE,primis in faucibus orci luctus et ultrices posuere,erat tortor sollicitudin
+324131,Premium,corp,Active,16/12/2017,29/10/2016,FALSE,nascetur ridiculus,fringilla rhoncus mauris enim leo
+474037,Standard,hyb,Inactive,05/03/2018,16/05/2017,FALSE,posuere cubilia curae mauris viverra diam vitae quam suspendisse,sed augue aliquam erat volutpat in congue etiam
+121689,Premium,res,Active,10/09/2017,21/04/2017,FALSE,quam pede lobortis ligula sit amet eleifend pede libero,ut tellus nulla ut erat id
+247315,Standard,corp,Inactive,03/05/2018,14/07/2018,FALSE,justo sollicitudin ut suscipit a,risus praesent lectus vestibulum quam sapien varius
+9710,Standard,corp,Inactive,11/05/2017,15/07/2017,FALSE,cum sociis,nulla ut erat id mauris vulputate elementum nullam varius
+955844,Premium,res,Inactive,18/10/2017,29/06/2017,TRUE,phasellus id,consectetuer adipiscing
+710185,Excelium,hyb,Active,03/03/2017,27/01/2017,FALSE,justo sit amet sapien,purus aliquet at feugiat non pretium
+886020,Premium,res,Inactive,18/08/2018,13/01/2017,TRUE,imperdiet sapien urna pretium nisl,proin interdum mauris non
+961949,Excelium,res,Inactive,29/09/2017,27/02/2018,TRUE,bibendum morbi,nisi nam ultrices libero non mattis pulvinar nulla pede
+259286,Excelium,corp,Inactive,24/05/2017,14/07/2017,FALSE,non pretium quis lectus suspendisse potenti,mauris lacinia sapien quis libero nullam sit amet
+420345,Excelium,corp,Active,20/05/2017,25/12/2016,FALSE,sapien,et magnis dis parturient montes nascetur
+77952,Standard,hyb,Active,28/11/2016,01/12/2016,TRUE,a ipsum integer a nibh in quis,eu mi nulla ac enim in
+54791,Standard,hyb,Inactive,16/09/2017,15/03/2017,TRUE,nulla quisque arcu libero rutrum ac lobortis,eros viverra eget congue
+719560,Standard,corp,Active,22/12/2017,23/06/2017,TRUE,erat eros viverra eget,fringilla rhoncus
+8542,Standard,res,Inactive,14/08/2018,03/08/2017,TRUE,montes nascetur ridiculus mus vivamus vestibulum sagittis sapien,volutpat eleifend donec ut dolor morbi vel lectus
+675448,Excelium,hyb,Active,24/09/2017,11/10/2017,TRUE,eget semper rutrum nulla nunc purus,urna ut tellus nulla ut erat id mauris vulputate
+943124,Standard,corp,Active,18/02/2018,05/09/2018,FALSE,quis orci nullam molestie nibh in lectus pellentesque at nulla,sem duis aliquam convallis nunc proin
+810324,Excelium,res,Active,18/08/2017,24/01/2018,TRUE,eget tempus vel pede morbi porttitor lorem id,luctus cum sociis natoque penatibus
+372633,Premium,res,Active,14/04/2017,14/11/2016,TRUE,ligula sit amet eleifend pede libero quis orci nullam,felis sed lacus morbi sem mauris
+45769,Excelium,com,Inactive,12/02/2017,14/09/2018,TRUE,nulla sed vel enim sit amet nunc viverra,pulvinar nulla pede ullamcorper augue a suscipit nulla
+100259,Standard,res,Inactive,15/06/2017,03/04/2018,FALSE,vestibulum eget vulputate ut ultrices vel augue vestibulum ante,sit amet lobortis sapien sapien
+886588,Premium,hyb,Inactive,21/03/2017,19/02/2018,TRUE,sed augue aliquam erat volutpat in congue,accumsan felis ut
+484456,Premium,hyb,Active,03/07/2018,07/03/2017,TRUE,et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum,vitae nisi nam ultrices
+300743,Excelium,hyb,Inactive,16/11/2017,23/12/2017,TRUE,curae nulla dapibus dolor vel est donec odio justo sollicitudin,quisque porta volutpat
+26588,Excelium,corp,Inactive,11/01/2018,25/09/2018,TRUE,sodales scelerisque mauris sit,blandit non interdum in ante vestibulum ante
+545257,Standard,res,Active,27/04/2017,26/08/2018,FALSE,vestibulum sed,lorem vitae mattis nibh ligula nec sem duis aliquam convallis
+555510,Excelium,corp,Active,29/10/2016,04/09/2018,FALSE,egestas metus aenean fermentum donec ut mauris eget massa tempor,id nulla ultrices aliquet maecenas leo
+420177,Premium,res,Inactive,31/07/2018,10/07/2017,FALSE,ut tellus nulla ut erat,velit eu est congue
+433735,Excelium,res,Inactive,31/07/2018,19/04/2017,TRUE,faucibus orci luctus et ultrices posuere cubilia curae duis faucibus,pulvinar sed
+831259,Premium,corp,Inactive,06/04/2017,24/02/2017,FALSE,donec diam neque vestibulum eget vulputate ut ultrices,orci vehicula condimentum
+42309,Excelium,corp,Inactive,31/05/2017,27/09/2018,FALSE,id nulla ultrices aliquet maecenas leo odio condimentum id luctus,commodo vulputate justo in blandit ultrices enim lorem ipsum
+364227,Excelium,corp,Active,21/04/2018,26/02/2017,FALSE,sem praesent id,in tempus sit amet
+658480,Premium,corp,Active,09/11/2017,15/06/2017,FALSE,condimentum curabitur in libero ut,ut erat curabitur gravida nisi at
+152265,Standard,com,Active,25/04/2018,06/03/2018,FALSE,odio justo sollicitudin ut suscipit a feugiat,eu
+71814,Excelium,res,Active,07/03/2018,29/03/2017,FALSE,leo rhoncus sed vestibulum sit amet cursus id,mauris vulputate elementum nullam varius nulla facilisi cras
+511642,Premium,com,Inactive,14/01/2018,14/04/2018,TRUE,potenti nullam porttitor lacus at,felis donec semper sapien a
+46259,Excelium,corp,Inactive,15/10/2016,26/04/2018,TRUE,eros suspendisse accumsan tortor quis turpis,suspendisse potenti cras in purus eu magna
+732410,Excelium,corp,Inactive,23/04/2018,12/08/2018,FALSE,ut dolor morbi vel lectus,mollis molestie lorem quisque ut erat curabitur gravida nisi at
+765334,Standard,corp,Active,14/11/2017,07/12/2017,TRUE,sit amet,platea
+241002,Excelium,com,Inactive,16/10/2017,23/02/2018,TRUE,nullam porttitor lacus at turpis,morbi vel lectus in quam fringilla rhoncus mauris enim
+761033,Premium,res,Active,11/09/2017,07/02/2017,TRUE,vel accumsan tellus nisi eu,dolor quis odio consequat varius
+391228,Standard,corp,Inactive,08/05/2018,06/03/2018,TRUE,hendrerit at vulputate vitae nisl aenean lectus pellentesque,vel dapibus at diam nam tristique
+904088,Premium,hyb,Active,22/04/2017,08/04/2018,FALSE,ante nulla justo aliquam quis turpis eget elit sodales,nulla quisque arcu libero rutrum ac lobortis vel dapibus
+776826,Premium,com,Inactive,27/09/2017,15/12/2017,TRUE,eget tempus,ac tellus semper interdum mauris ullamcorper purus
+173360,Excelium,res,Inactive,19/08/2017,02/07/2017,FALSE,quis tortor,ac
+177262,Excelium,com,Active,11/12/2017,26/10/2016,TRUE,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur,pulvinar sed nisl nunc rhoncus
+105090,Excelium,corp,Active,10/05/2017,29/08/2017,FALSE,sagittis nam congue risus,vestibulum sagittis sapien cum sociis natoque penatibus
+863904,Premium,corp,Active,22/07/2017,14/08/2017,TRUE,massa id lobortis convallis,urna pretium nisl ut volutpat
+123088,Standard,corp,Inactive,17/07/2017,22/05/2017,TRUE,aliquet maecenas leo odio condimentum id,sit amet consectetuer adipiscing elit proin interdum
+401411,Excelium,res,Inactive,06/12/2016,09/01/2017,TRUE,eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit,lacinia aenean
+496421,Excelium,hyb,Active,20/08/2018,24/03/2018,TRUE,integer,id luctus nec molestie sed
+379319,Excelium,corp,Inactive,22/03/2018,01/03/2017,TRUE,lectus vestibulum quam sapien varius ut blandit,tempus sit amet sem fusce consequat nulla nisl nunc nisl
+728653,Excelium,res,Active,24/10/2017,06/04/2018,FALSE,amet erat nulla tempus vivamus in felis eu sapien cursus,donec dapibus duis at velit eu est congue elementum in
+981573,Standard,corp,Inactive,19/08/2018,07/02/2017,TRUE,aliquam augue quam sollicitudin vitae consectetuer eget,tortor sollicitudin
+230707,Standard,res,Active,20/01/2018,10/04/2018,TRUE,ultrices mattis,vel nulla
+145330,Premium,com,Inactive,28/08/2017,21/06/2017,FALSE,lorem,phasellus sit amet erat nulla tempus
+607684,Excelium,hyb,Active,28/05/2018,06/04/2017,TRUE,lacus curabitur at ipsum ac tellus semper interdum,eget orci vehicula condimentum curabitur in libero ut massa
+702313,Excelium,hyb,Inactive,16/05/2017,16/01/2018,FALSE,morbi non quam nec dui luctus rutrum nulla tellus in,amet nulla
+757913,Premium,corp,Inactive,15/02/2018,31/03/2017,FALSE,nisi vulputate nonummy maecenas,feugiat non pretium quis lectus suspendisse
+334787,Standard,com,Inactive,18/03/2017,27/08/2017,TRUE,semper est quam pharetra magna ac consequat,orci pede venenatis non sodales
+817939,Premium,com,Active,07/12/2017,27/01/2017,TRUE,scelerisque quam turpis adipiscing,vestibulum aliquet ultrices
+670156,Premium,corp,Inactive,13/06/2017,19/09/2018,FALSE,luctus tincidunt nulla mollis molestie lorem,a libero nam dui proin
+341926,Excelium,res,Active,21/01/2018,29/01/2017,FALSE,rhoncus sed vestibulum sit amet cursus id turpis integer aliquet,nec sem
+596626,Standard,hyb,Inactive,14/11/2017,18/09/2018,FALSE,velit nec,augue aliquam
+992078,Standard,corp,Inactive,28/04/2017,30/01/2017,FALSE,penatibus et magnis dis parturient montes,congue etiam justo etiam pretium iaculis justo in hac
+339950,Premium,hyb,Inactive,31/03/2017,24/03/2017,FALSE,erat,quis libero nullam sit
+916634,Excelium,corp,Inactive,08/07/2018,13/05/2017,FALSE,dui luctus,ut nulla
+982835,Premium,res,Active,28/11/2016,24/07/2017,FALSE,orci pede venenatis non sodales sed tincidunt eu,hac habitasse platea dictumst morbi vestibulum velit id pretium
+280707,Premium,corp,Active,15/02/2018,27/10/2017,TRUE,sapien,egestas metus aenean fermentum donec ut mauris eget
+276051,Excelium,corp,Inactive,24/12/2017,11/03/2018,TRUE,sit,id mauris vulputate elementum nullam varius nulla facilisi
+971230,Premium,com,Inactive,02/11/2017,05/09/2017,FALSE,sit,convallis nunc proin at turpis a
+764702,Standard,com,Inactive,30/01/2018,30/09/2018,TRUE,consequat nulla nisl nunc nisl duis bibendum felis sed,semper sapien a libero nam
+650936,Excelium,res,Inactive,31/12/2016,29/05/2017,TRUE,pulvinar lobortis est phasellus sit,placerat praesent blandit nam nulla integer pede justo lacinia
+189280,Premium,com,Inactive,10/08/2018,25/12/2017,TRUE,duis at velit eu,suscipit ligula in lacus curabitur at ipsum
+371212,Standard,com,Active,26/12/2016,24/04/2017,TRUE,mus etiam vel augue vestibulum rutrum,dolor quis odio consequat varius integer ac
+963148,Excelium,corp,Active,09/01/2017,29/08/2017,TRUE,lobortis est phasellus sit,justo nec
+693579,Excelium,corp,Active,08/09/2018,11/12/2016,FALSE,leo odio condimentum id,vestibulum aliquet ultrices erat tortor sollicitudin mi sit
+187466,Excelium,com,Inactive,18/09/2017,06/08/2018,FALSE,molestie,erat quisque erat eros viverra
+5330,Premium,corp,Inactive,27/03/2017,30/10/2016,FALSE,faucibus accumsan odio curabitur convallis duis consequat dui nec,neque libero convallis
+754018,Premium,hyb,Active,04/03/2018,17/07/2017,FALSE,in,volutpat sapien arcu
+138755,Standard,hyb,Active,18/12/2017,01/02/2018,TRUE,massa donec dapibus duis at velit eu est congue elementum,ipsum praesent blandit lacinia erat vestibulum sed
+653250,Standard,hyb,Active,16/02/2018,11/10/2017,TRUE,duis bibendum morbi non quam nec dui,in congue etiam justo etiam pretium
+571025,Excelium,hyb,Active,16/02/2018,05/11/2017,TRUE,vel augue vestibulum ante ipsum primis in faucibus orci,odio elementum eu interdum
+381168,Premium,corp,Inactive,24/07/2018,15/11/2017,TRUE,ut tellus nulla ut erat id,amet turpis elementum ligula vehicula consequat morbi a ipsum integer
+103615,Excelium,corp,Inactive,03/06/2017,24/01/2017,FALSE,suscipit,convallis morbi odio odio
+269878,Standard,corp,Active,11/06/2018,12/11/2017,FALSE,lacinia,odio donec
+188217,Excelium,hyb,Inactive,04/02/2018,05/12/2017,TRUE,porttitor lacus at turpis donec posuere metus vitae ipsum aliquam,maecenas
+701903,Premium,hyb,Inactive,25/01/2017,14/01/2017,TRUE,vestibulum,amet justo morbi ut odio
+976534,Excelium,res,Active,27/08/2017,11/04/2018,TRUE,imperdiet,mauris viverra diam vitae quam suspendisse
+149735,Excelium,res,Active,05/09/2018,06/02/2018,FALSE,elit proin interdum,eu
+869078,Standard,corp,Inactive,23/05/2018,14/01/2017,FALSE,leo,vel augue vestibulum rutrum
+315792,Excelium,com,Inactive,06/01/2017,13/12/2017,FALSE,id nulla ultrices aliquet maecenas,montes
+241080,Premium,corp,Active,21/03/2017,26/07/2018,TRUE,nunc nisl duis bibendum felis sed interdum,enim in tempor turpis nec euismod
+203920,Premium,res,Active,28/01/2017,18/04/2018,FALSE,sapien sapien non mi integer ac neque,cubilia curae donec
+144262,Excelium,hyb,Inactive,17/09/2017,07/12/2016,TRUE,vulputate elementum nullam varius nulla,nulla suscipit ligula
+125656,Standard,hyb,Active,16/11/2017,17/12/2016,TRUE,sit amet turpis elementum ligula vehicula consequat morbi a,amet
+689536,Standard,hyb,Inactive,15/09/2017,29/03/2018,FALSE,sem,augue vestibulum ante ipsum primis in faucibus
+133318,Premium,hyb,Active,30/10/2017,14/02/2017,TRUE,amet cursus id turpis integer aliquet,ipsum aliquam non mauris
+606431,Premium,corp,Active,30/06/2017,28/11/2017,FALSE,quis turpis eget elit sodales scelerisque,leo rhoncus sed vestibulum sit amet cursus id
+726560,Premium,corp,Inactive,02/06/2018,22/07/2017,FALSE,dui nec nisi volutpat eleifend donec ut,curabitur at ipsum ac tellus
+623368,Premium,hyb,Inactive,01/06/2018,21/07/2018,FALSE,ante vivamus tortor duis,vel nulla eget eros elementum pellentesque quisque porta volutpat
+110768,Premium,corp,Active,19/05/2017,21/10/2017,FALSE,quam pede,viverra diam vitae
+647000,Excelium,corp,Inactive,30/11/2017,29/09/2017,TRUE,ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris,ut at dolor quis
+514407,Excelium,corp,Active,05/03/2017,03/08/2017,TRUE,morbi vestibulum velit id pretium iaculis diam erat,quisque arcu libero rutrum ac lobortis
+638635,Premium,com,Inactive,21/03/2017,06/08/2017,FALSE,dui,curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus
+225407,Premium,corp,Inactive,10/10/2016,07/06/2018,TRUE,nullam varius nulla facilisi cras non velit,mi in porttitor pede justo
+431037,Excelium,corp,Inactive,19/11/2017,29/04/2018,FALSE,nec condimentum neque,in leo maecenas pulvinar lobortis
+518647,Standard,res,Inactive,11/12/2016,02/07/2018,TRUE,nec sem duis aliquam convallis nunc,ipsum primis in faucibus orci luctus
+631517,Premium,res,Inactive,12/11/2016,11/01/2017,FALSE,nisi eu orci mauris lacinia sapien,aenean
+691960,Premium,hyb,Active,14/12/2017,17/06/2017,TRUE,tempus vivamus in felis eu,commodo placerat
+369456,Standard,corp,Active,24/09/2018,12/07/2017,FALSE,nunc rhoncus dui vel sem sed sagittis nam congue risus,consequat lectus
+784379,Premium,com,Active,18/04/2017,26/12/2016,FALSE,sed,nascetur ridiculus mus vivamus vestibulum sagittis sapien
+300780,Standard,com,Inactive,08/04/2018,08/03/2018,FALSE,mus vivamus vestibulum sagittis sapien cum sociis,tortor id
+917045,Standard,com,Active,23/10/2017,14/12/2017,FALSE,posuere nonummy integer,pellentesque quisque porta volutpat erat quisque erat
+983139,Premium,hyb,Inactive,09/02/2017,15/07/2018,TRUE,semper est quam pharetra magna,duis faucibus accumsan
+687092,Premium,hyb,Inactive,16/06/2017,07/07/2017,FALSE,adipiscing elit proin risus,eget
+211715,Excelium,hyb,Inactive,21/10/2017,23/07/2017,FALSE,ullamcorper purus sit amet nulla quisque arcu,aliquet at feugiat non
+615220,Premium,res,Inactive,27/02/2018,06/04/2018,TRUE,luctus et ultrices posuere cubilia curae donec pharetra,duis ac nibh fusce lacus purus aliquet at
+162232,Premium,res,Active,26/05/2018,06/11/2017,FALSE,neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante,hendrerit at vulputate vitae nisl aenean lectus
+240961,Premium,com,Inactive,13/08/2017,24/04/2017,TRUE,lacinia nisi venenatis,mi
+41770,Premium,corp,Active,18/07/2018,19/10/2016,TRUE,consectetuer adipiscing elit proin interdum mauris non,vehicula condimentum curabitur in libero
+163898,Standard,res,Active,18/06/2018,10/11/2016,TRUE,donec quis orci eget orci vehicula condimentum curabitur in,maecenas rhoncus
+345963,Standard,corp,Inactive,25/06/2017,17/10/2016,TRUE,duis ac,eget massa
+144030,Excelium,corp,Inactive,13/12/2016,05/05/2017,FALSE,curae duis faucibus accumsan odio curabitur convallis duis consequat,commodo vulputate justo in blandit ultrices
+528888,Premium,corp,Inactive,12/09/2018,12/05/2018,FALSE,ut massa volutpat,ultrices vel augue vestibulum ante ipsum primis
+772444,Excelium,corp,Inactive,28/02/2018,12/03/2017,FALSE,vitae ipsum aliquam non mauris morbi non lectus,proin at turpis a pede posuere nonummy
+701050,Excelium,corp,Inactive,25/11/2017,14/07/2018,FALSE,libero non mattis pulvinar nulla pede,donec pharetra magna vestibulum aliquet ultrices
+28610,Standard,res,Active,16/06/2018,27/10/2016,TRUE,vel augue vestibulum ante ipsum primis in faucibus orci,vivamus vestibulum sagittis
+487843,Excelium,hyb,Inactive,01/11/2016,11/04/2017,TRUE,nulla suspendisse potenti cras in purus eu magna vulputate luctus,nisl duis bibendum felis sed interdum venenatis turpis enim blandit
+426720,Standard,res,Inactive,10/01/2018,07/05/2018,FALSE,dolor,amet
+750502,Standard,hyb,Inactive,22/11/2017,17/08/2018,TRUE,dui vel nisl duis ac nibh fusce,enim lorem
+900641,Excelium,corp,Inactive,05/02/2018,17/09/2017,FALSE,luctus ultricies,eu massa
+833350,Premium,hyb,Active,25/11/2016,10/03/2017,FALSE,dapibus,mauris ullamcorper
+194920,Premium,corp,Inactive,04/09/2017,25/12/2017,FALSE,id pretium iaculis diam erat fermentum justo,donec ut dolor morbi
+370901,Premium,com,Active,04/02/2017,24/01/2017,TRUE,semper,sed
+667097,Standard,corp,Active,07/04/2017,09/01/2017,TRUE,quam sollicitudin vitae consectetuer eget rutrum at,justo eu massa donec dapibus duis at velit eu
+70556,Premium,res,Inactive,05/11/2017,21/09/2018,FALSE,lobortis est phasellus sit amet erat,cum
+895558,Excelium,com,Active,14/09/2017,14/04/2018,TRUE,aliquam erat volutpat in,in magna bibendum imperdiet nullam orci pede venenatis
+437475,Standard,corp,Inactive,27/06/2017,11/04/2018,FALSE,dolor vel est donec odio justo,est donec odio justo sollicitudin
+409036,Excelium,res,Inactive,23/05/2017,18/09/2018,TRUE,libero quis orci nullam molestie,ultrices posuere cubilia curae nulla
+739286,Excelium,com,Active,18/12/2017,13/06/2018,TRUE,turpis integer aliquet,dignissim vestibulum vestibulum ante ipsum primis in faucibus
+582677,Standard,com,Inactive,23/02/2017,27/08/2018,TRUE,erat eros viverra eget congue eget semper,turpis integer
+290921,Excelium,com,Inactive,02/03/2017,20/04/2018,TRUE,integer ac,leo rhoncus sed
+535327,Standard,res,Active,08/10/2018,15/04/2018,TRUE,non mauris morbi non lectus aliquam sit amet,lectus
+78147,Premium,hyb,Inactive,11/04/2017,23/02/2017,TRUE,suspendisse potenti cras in purus,nulla justo aliquam quis turpis eget elit
+979257,Standard,hyb,Active,12/12/2017,03/07/2018,FALSE,dictumst,mi pede malesuada in imperdiet et
+439287,Standard,res,Inactive,19/05/2018,25/09/2018,TRUE,purus sit amet nulla quisque arcu libero rutrum ac lobortis,nulla tempus vivamus in felis
+737614,Premium,hyb,Inactive,09/04/2018,08/05/2018,FALSE,congue elementum in hac habitasse platea dictumst,congue vivamus metus arcu
+622487,Premium,com,Active,17/04/2017,18/10/2017,FALSE,nulla pede ullamcorper augue a suscipit,integer pede justo
+277988,Excelium,res,Inactive,15/02/2018,12/09/2017,FALSE,in quis justo maecenas rhoncus,quisque
+992293,Excelium,hyb,Inactive,13/06/2018,30/03/2018,FALSE,ullamcorper augue a suscipit,justo lacinia eget tincidunt eget tempus vel pede morbi porttitor
+660264,Standard,com,Inactive,18/12/2016,18/05/2018,FALSE,magnis dis parturient montes nascetur ridiculus,in quis
+365285,Excelium,hyb,Inactive,20/03/2017,23/11/2016,TRUE,dolor sit,nulla
+949590,Excelium,com,Inactive,20/06/2018,12/12/2016,TRUE,euismod scelerisque quam turpis adipiscing lorem,venenatis tristique fusce congue diam id ornare imperdiet sapien urna
+445446,Standard,corp,Inactive,31/01/2018,15/11/2016,TRUE,congue etiam justo etiam pretium iaculis,nulla nunc purus phasellus in
+875327,Excelium,res,Inactive,12/10/2016,27/05/2018,TRUE,massa,sapien quis libero
+894713,Standard,corp,Active,28/11/2016,20/02/2017,TRUE,etiam justo etiam pretium iaculis justo in hac habitasse platea,praesent lectus vestibulum quam sapien varius ut blandit
+366066,Standard,com,Inactive,25/01/2017,19/07/2017,FALSE,ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu,vel pede morbi porttitor lorem
+921516,Excelium,com,Inactive,13/03/2017,06/08/2017,FALSE,enim in,sapien cum sociis natoque penatibus et magnis dis
+841228,Excelium,corp,Inactive,17/04/2018,15/12/2017,FALSE,curabitur,lacus morbi quis tortor id
+453680,Standard,corp,Active,03/05/2018,18/08/2017,TRUE,justo lacinia eget tincidunt,curabitur at
+95781,Premium,hyb,Inactive,29/01/2017,04/10/2017,FALSE,lorem vitae mattis nibh ligula,congue etiam justo etiam pretium
+482240,Excelium,hyb,Inactive,02/07/2017,25/10/2016,FALSE,lorem ipsum dolor sit amet consectetuer adipiscing,sapien
+268293,Standard,com,Active,15/09/2017,26/08/2018,FALSE,mauris vulputate elementum nullam varius,at nulla suspendisse potenti cras in purus
+243319,Excelium,corp,Inactive,04/03/2018,22/04/2017,FALSE,massa volutpat,quis justo maecenas rhoncus aliquam lacus morbi quis tortor
+653473,Premium,hyb,Inactive,18/01/2017,27/07/2017,TRUE,porta volutpat erat quisque erat eros viverra eget,eu pede
+585813,Premium,corp,Active,29/01/2018,27/10/2017,FALSE,nullam varius nulla facilisi cras non velit nec nisi vulputate,potenti nullam porttitor lacus at turpis donec posuere
+31506,Standard,hyb,Active,01/03/2017,09/10/2016,TRUE,pretium nisl,id mauris vulputate elementum nullam
+63175,Excelium,hyb,Inactive,03/04/2018,04/04/2018,FALSE,primis in faucibus,ipsum primis
+779155,Premium,corp,Inactive,08/01/2018,19/02/2017,TRUE,ullamcorper,in faucibus orci
+111347,Standard,res,Inactive,01/02/2018,26/06/2017,FALSE,vel accumsan tellus nisi eu orci mauris lacinia sapien,quam sollicitudin vitae consectetuer eget rutrum at lorem
+384286,Premium,res,Inactive,08/11/2016,09/09/2018,FALSE,quisque ut erat curabitur gravida nisi at nibh in hac,nunc viverra
+901230,Premium,corp,Active,28/04/2018,18/10/2016,FALSE,mi pede,ligula vehicula consequat
+15464,Excelium,res,Active,05/12/2016,27/07/2017,FALSE,vehicula condimentum curabitur in libero,tortor sollicitudin mi sit amet lobortis sapien sapien
+4837,Premium,com,Inactive,05/06/2018,11/07/2017,TRUE,eu,nisl duis bibendum felis sed interdum venenatis turpis
+347616,Premium,hyb,Active,02/04/2018,16/09/2018,TRUE,cubilia curae mauris viverra diam vitae,dictumst etiam faucibus cursus urna ut tellus
+962113,Standard,res,Active,04/02/2017,25/09/2017,TRUE,in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum,morbi ut odio cras mi pede malesuada in imperdiet et
+997117,Excelium,res,Active,02/06/2017,07/05/2018,TRUE,varius,suscipit ligula in lacus
+259052,Excelium,hyb,Inactive,25/11/2016,03/04/2018,FALSE,vitae consectetuer eget rutrum at lorem,mollis molestie lorem quisque
+229173,Excelium,corp,Active,05/05/2018,06/08/2017,FALSE,sed,a pede posuere nonummy integer non velit donec diam neque
+840519,Excelium,com,Inactive,16/11/2017,29/09/2018,FALSE,dolor morbi vel lectus in quam fringilla rhoncus mauris enim,lorem ipsum dolor sit amet consectetuer adipiscing
+664509,Premium,res,Inactive,23/09/2018,02/12/2016,FALSE,sit amet justo morbi ut odio,elementum nullam varius nulla facilisi cras non
+630922,Excelium,com,Inactive,12/07/2018,10/02/2017,FALSE,sagittis dui vel nisl duis ac nibh fusce,ut ultrices
+705949,Excelium,corp,Inactive,17/01/2018,15/05/2017,FALSE,vel est donec odio justo sollicitudin ut suscipit a,sed lacus
+647708,Excelium,corp,Inactive,01/02/2017,24/06/2018,FALSE,proin,dapibus nulla suscipit ligula in lacus curabitur at ipsum
+426953,Excelium,com,Active,04/02/2017,10/05/2018,TRUE,orci eget orci vehicula condimentum curabitur,vestibulum ac est lacinia nisi
+215592,Premium,res,Active,03/07/2018,16/02/2017,TRUE,montes nascetur ridiculus mus etiam vel,libero non mattis pulvinar
+237598,Excelium,res,Inactive,29/12/2017,02/02/2017,FALSE,dui proin,in faucibus orci luctus et ultrices posuere cubilia curae duis
+219490,Excelium,com,Inactive,17/02/2017,30/05/2017,TRUE,urna ut,ligula sit amet
+926914,Standard,corp,Active,06/02/2018,06/08/2017,FALSE,pellentesque eget nunc donec quis,velit donec diam neque vestibulum eget
+868569,Standard,com,Inactive,21/08/2017,01/04/2017,TRUE,id mauris vulputate elementum nullam varius nulla facilisi,erat quisque erat eros viverra eget congue eget
+875900,Premium,hyb,Inactive,11/02/2017,06/12/2016,TRUE,mauris,in blandit ultrices enim lorem
+910828,Excelium,com,Inactive,05/08/2017,12/07/2018,FALSE,cras non velit nec,eu interdum eu tincidunt in leo maecenas pulvinar
+670477,Standard,com,Active,15/08/2018,01/09/2017,TRUE,sit amet nulla quisque arcu libero,ultrices posuere cubilia curae
+967498,Excelium,hyb,Active,16/09/2018,20/08/2018,FALSE,amet eros suspendisse accumsan tortor quis turpis sed ante vivamus,sociis natoque penatibus et magnis dis parturient
+390104,Excelium,corp,Active,11/04/2017,17/09/2018,TRUE,blandit nam nulla integer pede justo lacinia eget,lectus
+777484,Premium,com,Inactive,27/03/2018,09/04/2017,TRUE,eu massa donec dapibus duis at velit,luctus rutrum
+168024,Standard,com,Inactive,25/07/2018,03/02/2017,FALSE,lacus purus aliquet at feugiat non pretium quis lectus suspendisse,consequat in consequat ut nulla sed accumsan
+93642,Standard,res,Active,15/09/2018,11/12/2016,TRUE,eget eros elementum pellentesque quisque,vestibulum ante
+189846,Standard,com,Active,10/11/2016,31/05/2018,TRUE,duis consequat dui nec nisi,ultrices mattis
+528564,Premium,com,Active,30/07/2017,08/12/2017,FALSE,augue luctus tincidunt nulla mollis molestie lorem quisque ut,arcu sed augue
+248584,Premium,corp,Inactive,19/05/2017,20/11/2017,FALSE,lectus pellentesque eget nunc,quisque porta volutpat erat quisque erat
+529658,Standard,com,Active,24/05/2018,11/10/2016,FALSE,sed interdum venenatis turpis enim blandit mi in porttitor pede,odio elementum eu interdum
+485293,Excelium,corp,Active,05/06/2017,03/03/2018,TRUE,quam sapien varius ut blandit non,suspendisse
+732954,Premium,com,Active,15/08/2018,12/02/2018,FALSE,at nunc commodo,tincidunt eu felis
+538474,Excelium,com,Active,19/04/2018,30/07/2018,FALSE,varius,morbi non
+494202,Standard,res,Active,09/08/2017,20/02/2017,FALSE,feugiat et eros vestibulum ac est lacinia nisi venenatis tristique,sed nisl nunc
+811340,Excelium,corp,Active,06/04/2017,30/12/2016,TRUE,sit amet,laoreet ut
+133797,Excelium,hyb,Active,24/06/2017,12/05/2017,TRUE,pellentesque quisque porta volutpat erat quisque erat,sapien arcu sed
+86584,Excelium,com,Active,22/07/2018,27/05/2017,FALSE,felis donec semper sapien a libero nam dui proin leo,odio consequat varius integer
+898363,Excelium,com,Inactive,02/06/2017,17/01/2017,TRUE,nibh,massa
+363317,Standard,hyb,Inactive,11/02/2018,20/04/2018,FALSE,in faucibus orci luctus,curabitur convallis duis consequat dui nec nisi volutpat eleifend donec
+233368,Excelium,res,Active,16/10/2017,28/11/2017,TRUE,dictumst maecenas ut massa quis augue luctus,curae nulla dapibus dolor vel est donec odio justo sollicitudin
+779202,Premium,hyb,Inactive,09/05/2017,10/10/2016,TRUE,sed sagittis nam congue,platea dictumst

@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>RocketElevatorsInformationSystem</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+
+
+
+    <meta charset="utf-8" />
+    <title>Rocket Elevators</title>
+    <meta name="description" content="" />
+    <meta name="Author" content="Jabir Uredi Saidi [www.stepofweb.com]" />
+
+    <!-- mobile settings -->
+    <meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0" />
+
+  </head>
+
+<body class="smoothscroll enable-animation">
+   
+    <!-- wrapper -->
+    <div id="wrapper">
+
+        <!-- 
+				AVAILABLE HEADER CLASSES
+
+				Default nav height: 96px
+				.header-md 		= 70px nav height
+				.header-sm 		= 60px nav height
+
+				.b-0 		= remove bottom border (only with transparent use)
+				.transparent	= transparent header
+				.translucent	= translucent header
+				.sticky			= sticky header
+				.static			= static header
+				.dark			= dark header
+				.bottom			= header on bottom
+				
+				shadow-before-1 = shadow 1 header top
+				shadow-after-1 	= shadow 1 header bottom
+				shadow-before-2 = shadow 2 header top
+				shadow-after-2 	= shadow 2 header bottom
+				shadow-before-3 = shadow 3 header top
+				shadow-after-3 	= shadow 3 header bottom
+
+				.clearfix		= required for mobile menu, do not remove!
+
+				Example Usage:  class="clearfix sticky header-sm transparent b-0"
+			-->
+        <div id="header" class="navbar-toggleable-md sticky header-md clearfix">
+
+            <!-- TOP NAV -->
+            <header id="topNav">
+                <div class="container">
+
+                    <!-- Mobile Menu Button -->
+                    <button class="btn btn-mobile" data-toggle="collapse" data-target=".nav-main-collapse">
+							<i class="fa fa-bars"></i>
+						</button>
+
+                    <!-- Logo -->
+                    <a class="logo float-left scrollTo" href="#top">
+                        <img src="assets/R2.png" alt="" />
+                    </a>
+
+
+                    <!-- 
+							Top Nav 
+							
+							AVAILABLE CLASSES:
+							submenu-dark = dark sub menu
+						-->
+                    <div class="navbar-collapse collapse float-right nav-main-collapse submenu-dark">
+                        <nav class="nav-main">
+
+                            <!-- 
+									.nav-onepage
+									Required for onepage navigation links
+									
+									Add .external for an external link!
+								-->
+                            <ul id="topMain" class="nav nav-pills nav-main nav-onepage">
+                                <li class="active">
+                                    
+                                    <%= link_to "HOME", root_path %>
+
+                                </li>
+                                <li>
+                                    <!-- SERVICES -->
+                                    <a class="dropdown-toggle" href="#services">
+											SERVICES
+                                        </a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="/residential">RESIDENTIAL</a></li>
+                                        <li><a href="/commercial">CORPORATE</a></li>
+                                        <li><a href="/quotes">QUOTES</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <!-- WORK -->
+                                    <a href="/#work">
+											PORTFOLIO
+										</a>
+                                </li>
+                                <li>
+                                    <!-- NEWS -->
+                                    <a href="/#news">
+											NEWS
+										</a>
+                                </li>
+                                <li>
+                                    <!-- CLIENTS -->
+                                    <a href="/#clients">
+											CLIENTS
+										</a>
+                                </li>
+                                <li>
+                                    <!-- CONTACT -->
+                                    <a href="/#contact">
+											CONTACT
+										</a>
+                                </li>
+
+                                <!-- Log In -->
+                                <li><a href="/admin">ADMIN</a></li>
+
+                                <li>
+                                    <!-- SERVICES -->
+                                    <a class="dropdown-toggle" href="#services">
+										STATISTICS
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="/graphlead">LEADS</a></li>
+                                        <li><a href="/graphquote">QUOTES</a></li>
+                                        <li><a href="/graphelevator">ELEVATORS</a></li>
+                                    </ul>
+                                </li>
+
+                            </ul>
+
+                        </nav>
+                    </div>
+
+                </div>
+            </header>
+            <!-- /Top Nav  je suis beau -->
+
+        </div>
+            <%= yield %>
+    </div>
+    
+    </div>
+    </div>
+
+    
+           
+         <!-- FOOTER -->
+        <footer id="footer">
+            <div class="container">
+
+
+                <div class="row">
+
+                    <!-- col #1 -->
+                    <div class="col-md-8">
+
+                        <h3 class="letter-spacing-1">WHY US?</h3>
+
+                        <!-- Small Description -->
+                        <p>
+                            We offer a wide variety of either affordable or luxurious elevators. We have a whole team dedicated to survailiance and maintenance of machinery installed in your building. We offer a life time warrenty that covers any manufacturial defaults and other
+                            possible defaults.
+                        </p>
+                        <h2>(418) 580-7055</h2>
+                    </div>
+                    <!-- /col #1 -->
+
+                    <!-- col #2 -->
+                    <div class="col-md-4">
+                        <h3 class="letter-spacing-1">KEEP IN TOUCH</h3>
+
+
+                        <!-- Newsletter Form -->
+                        <p>Subscribe to Our Newsletter to get Important News & Offers</p>
+
+                        <form class="validate" action="php/newsletter.php" method="post" data-success="Subscribed! Thank you!" data-toastr-position="bottom-right">
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                                <input type="email" id="email" name="email" class="form-control required" placeholder="Enter your Email">
+                                <span class="input-group-btn">
+										<button class="btn btn-red" type="submit">Subscribe</button>
+									</span>
+                            </div>
+                        </form>
+                        <!-- /Newsletter Form -->
+
+
+                    </div>
+                    <!-- /col #2 -->
+
+                </div>
+
+
+            </div>
+
+            <div class="copyright">
+                <div class="container">
+                    <ul class="float-right m-0 list-inline mobile-block">
+                        <li><a href="#">Terms &amp; Conditions</a></li>
+                        <li>&bull;</li>
+                        <li><a href="#">Privacy</a></li>
+                    </ul>
+                    &copy; All Rights Reserved, Company LTD
+                </div>
+            </div>
+
+        </footer>
+        <!-- /FOOTER -->
+    </body>
+</html>
+
